@@ -27,12 +27,12 @@
 }
 
 .bg-image-header {
-  background:url( '/user/themes/bleu-lumiere/img/hero-bg.jpg' ) center bottom #ffffff;
+  background:url( '/user/themes/bleu-lumiere/img/logo.png' ) center bottom #ffffff;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height: 100%;
+  height: 50%;
 }
 
 .bg-center-center {
@@ -48,7 +48,7 @@
 
 <div class="home-header-bg clearfix">
   <div class="site-branding">
-    <a href="http://cecile.dev.coutupetra.fr">
-      <img class="logo"  src="/user/themes/bleu-lumiere/img/logo.png" alt="{{ site.logo }}"></a>
+    <a href="{{ base_url_absolute }}">
+      <img class="logo"  src="{{ theme_url }}/img/{{ site.logo }}" alt="{{ site.logo }}"></a>
     </div>
   </div>
