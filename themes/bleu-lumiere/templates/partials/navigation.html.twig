@@ -36,11 +36,6 @@
                         </a>
                     </li>
                   {% endfor %}
-                  {% if config.plugins.simplesearch.enabled %}
-                    <a class="widget widget_search">
-                        {% include 'partials/simplesearch_searchbox.html.twig' %}
-                    </a>
-                    {% endif %}
               {% endif %}
               {% for mitem in site.menu %}
                   <li>
@@ -48,6 +43,11 @@
                           {% if mitem.icon %}<i class="fa fa-{{ mitem.icon }}"></i>{% endif %}
                           {{ mitem.text }}
                       </a>
+                      {% if config.plugins.simplesearch.enabled %}
+                      <a class="widget widget_search">
+                          {% include 'partials/simplesearch_searchbox.html.twig' %}
+                      </a>
+                      {% endif %}
                   </li>
               {% endfor %}
             </ul>
