@@ -37,10 +37,9 @@
                     </li>
                   {% endfor %}
                   {% if config.plugins.simplesearch.enabled %}
-                    <aside class="widget widget_search">
-                        <h1 class="widget-title">SimpleSearch</h1>
+                    <a class="widget widget_search">
                         {% include 'partials/simplesearch_searchbox.html.twig' %}
-                    </aside>
+                    </a>
                     {% endif %}
               {% endif %}
               {% for mitem in site.menu %}
