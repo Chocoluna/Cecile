@@ -1,7 +1,7 @@
 
 <style type="text/css" id="rescue_custom_css">
 .home-header-bg {
-  background:url( '/user/themes/bleu-lumiere/img/background.jpg' ) #ffffff no-repeat center center fixed;
+  background:url( '{{ theme_url }}/img/{{ site.header.background }}' ) #ffffff no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -27,7 +27,7 @@
 }
 
 .bg-image-header {
-  background:url( '/user/themes/bleu-lumiere/img/logo.png' ) center bottom #ffffff;
+  background:url( '{{ theme_url }}/img/{{ site.header.background }}' ) center bottom #ffffff;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
