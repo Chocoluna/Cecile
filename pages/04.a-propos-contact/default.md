@@ -1,5 +1,5 @@
 ---
-title: Style Guide
+title: A propos - Contact
 body_classes: page page-template-default group-blog
 ---
 

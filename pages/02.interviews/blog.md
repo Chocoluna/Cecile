@@ -1,7 +1,7 @@
 ---
-title: Blog
+title: Interviews
 blog_url: blog
-menu: Blog
+menu: Interviews
 body_classes: blog group-blog infinite-scroll
 
 sitemap:
