@@ -2,11 +2,12 @@
 
 ##TODO
 - [X] barre de recherche
+- [X] maj barre de navigation
 - [ ] page d'accueil qui défile PAS vers le bas (vs le template original)
 - [ ] commentaire sur les pages où il y a les articles
 - [ ] page "interviews" avec tous les articles accessibles présentés un peu comme sur la page d'accueil
-- [ ] changer polices + couleur titres 
-- [ ] changer polices + couleur texte
+- [X] changer polices + couleur titres 
+- [X] changer polices + couleur texte
 - [ ] effet quand on passe la souris sur du texte cliquable
 - [ ] garder les effets des images (ombre + hover)
 - [ ] formulaire de contact
