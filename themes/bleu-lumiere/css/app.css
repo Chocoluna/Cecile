@@ -466,10 +466,10 @@ body {
 
 body {
   background: white;
-  color: #888888;
+  color: #232222;
   padding: 0;
   margin: 0;
-  font-family: "Fanwood Text", serif;
+  font-family: "Raleway Medium", arial;
   font-weight: normal;
   font-style: normal;
   line-height: 1.5;
@@ -547,7 +547,7 @@ button, .button {
   border-style: solid;
   border-width: 0px;
   cursor: pointer;
-  font-family: "Fanwood Text", serif;
+  font-family: "Raleway Regular", arial;
   font-weight: normal;
   line-height: normal;
   margin: 0 0 1.25rem;
@@ -564,7 +564,7 @@ button, .button {
   font-size: 1rem;
   background-color: #e8554e;
   border-color: #db251d;
-  color: white;
+  color: #232222;
   transition: background-color 300ms ease-out;
 }
 button:hover, button:focus, .button:hover, .button:focus {
@@ -1441,7 +1441,7 @@ select {
   border-color: #cccccc;
   padding: 0.5rem;
   font-size: 0.875rem;
-  font-family: "Fanwood Text", serif;
+  font-family: "Railway Regular", arial;
   color: rgba(0, 0, 0, 0.75);
   line-height: normal;
   border-radius: 0;
@@ -3075,10 +3075,10 @@ meta.foundation-mq-topbar {
 .top-bar-section ul li > a {
   display: block;
   width: 100%;
-  color: #666666;
+  color: #232222;
   padding: 12px 0 12px 0;
   padding-left: 21.66667px;
-  font-family: "Fanwood Text", serif;
+  font-family: "Raleway Regular", arial;
   font-size: 0.8125rem;
   font-weight: normal;
   text-transform: none;
@@ -3761,10 +3761,10 @@ p aside {
 
 /* Default header styles */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Quattrocento", serif;
+  font-family: "Frente H1", arial;
   font-weight: bold;
   font-style: normal;
-  color: #666666;
+  color: #151d3a;
   text-rendering: optimizeLegibility;
   margin-top: 0.2rem;
   margin-bottom: 1.5rem;
