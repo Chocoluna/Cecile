@@ -3763,14 +3763,17 @@ p aside {
  * -------------------------- */
  @font-face {
   font-family: 'Frente H1';
-  src: url('../fonts/fonts/FrenteH1-Regular.otf') format('otf');
+  src: url('../fonts/fonts/FrenteH1-Regular.otf') format("opentype");
+  src: url('http://fonts.cdnfonts.com/css/frente-h1') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
 
+@import url('http://fonts.cdnfonts.com/css/frente-h1');
+
 /* Default header styles */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Frente H1", 'arial';
+  font-family: "Frente H1", sans-serif;
   font-weight: bold;
   font-style: normal;
   color: #151d3a;
