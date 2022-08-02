@@ -984,6 +984,9 @@ footer .textwidget a:hover i {
 .footer-wrap {
   background-color: #303030;
   margin-top: 8em;
+  position: absolute;
+  bottom: 0;
+  width: 100vw;
 }
 
 footer {
