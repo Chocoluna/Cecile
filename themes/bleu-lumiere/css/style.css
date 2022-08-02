@@ -641,7 +641,7 @@ article .entry-footer .left i {
   transition: 0.2s;
 }
 article .entry-footer .left i:hover {
-  color: #e8554e;
+  color: #7690b0;
 }
 article .entry-footer .right {
   color: #d5d5d5;
@@ -982,7 +982,7 @@ footer .textwidget a i {
   font-size: 1.25rem;
 }
 footer .textwidget a:hover i {
-  color: #e8554e;
+  color: #7690b0;
 }
 
 /*--------------------------------------------------------------
