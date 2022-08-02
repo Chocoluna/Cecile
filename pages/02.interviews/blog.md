@@ -13,12 +13,12 @@ content:
     order:
         by: date
         dir: desc
-    limit: 10
+    limit: 12
     pagination: true
 
 feed:
     description: Sample Blog Description
-    limit: 10
+    limit: 12
 
 pagination: true
 ---

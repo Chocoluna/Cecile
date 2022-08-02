@@ -3359,7 +3359,7 @@ meta.foundation-mq-topbar {
   .top-bar-section li.hover > a:not(.button) {
     background-color: white;
     background: white;
-    color: #e8554e;
+    color: #7690b0;
   }
   .top-bar-section li:not(.has-form) a:not(.button) {
     padding: 0 21.66667px;
@@ -3729,7 +3729,7 @@ td {
 
 /* Default Link Styles */
 a {
-  color: #e8554e;
+  color: #7690b0;
   text-decoration: none;
   line-height: inherit;
 }

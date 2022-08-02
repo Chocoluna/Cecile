@@ -62,7 +62,7 @@ abbr, acronym {
 
 blockquote {
   background-color: #FAFAFA;
-  border-left: 8px solid #e8554e;
+  border-left: 8px solid #7690b0;
   padding: 1.5625rem 1.25rem 0.35rem 1.1875rem;
 }
 blockquote cite {
@@ -171,7 +171,7 @@ pre {
 }
 #infinite-footer .blog-info a:hover {
   text-decoration: none !important;
-  color: #e8554e !important;
+  color: #7690b0 !important;
 }
 
 /*--------------------------------------------------------------

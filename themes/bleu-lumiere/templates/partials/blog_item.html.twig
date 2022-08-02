@@ -25,11 +25,6 @@
           </time>
         </a>
       </span>
-      <span class="byline"> by
-        <span class="author vcard">
-          {{ page.header.author }}
-        </span>
-      </span>
     </div>
     {% endif %}
   </header>
@@ -147,32 +142,10 @@
       windowOpen=window.open(jQuery(this).attr('href'),'wpcomgoogle-plus-1','menubar=1,resizable=1,width=480,height=550');return false;});});</script>
       {% endif %}
 
-      {% if not truncate %}
-    <div id="jp-relatedposts" class="jp-relatedposts" style="display: block;">
-      <h3 class="jp-relatedposts-headline"><em>{{ 'RELATED_POSTS'|t }}</em></h3>
-      <div class="jp-relatedposts-items jp-relatedposts-items-visual">
-        {% include 'partials/relatedpages.html.twig' %}
-      </div>
-    </div>
-    <hr/>
-    {% endif %}
-  </div>
-
   <footer class="entry-footer clearfix">
     <span class="left">
       <a href="{{ page.url }}#comments"><i class="fa fa-comment"></i></a>
       <a href="{{ page.url }}"><i class="fa fa-link"></i></a>
-    </span>
-    <span class="right">
-      {% if not truncate %}
-        {% if page.taxonomy.tag %}
-        <span class="tags-links">
-          {% for tag in page.taxonomy.tag %}
-            <a href="{{ base_url }}/tag{{ config.system.param_sep }}{{ tag }}">{{ tag|capitalize }}{% if not loop.last %},{% endif %}</a>
-          {% endfor %}
-        </span>
-        {% endif %}
-      {% endif %}
     </span>
   </footer>
 </article>
