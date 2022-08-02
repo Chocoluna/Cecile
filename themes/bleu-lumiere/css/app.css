@@ -3764,7 +3764,6 @@ p aside {
  @font-face {
   font-family: 'Frente H1';
   src: url('../fonts/fonts/FrenteH1-Regular.otf') format("opentype");
-  src: url('http://fonts.cdnfonts.com/css/frente-h1') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
