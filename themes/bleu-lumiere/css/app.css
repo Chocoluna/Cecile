@@ -3769,8 +3769,6 @@ p aside {
   font-style: normal;
 }
 
-@import url('http://fonts.cdnfonts.com/css/frente-h1');
-
 /* Default header styles */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Frente H1", sans-serif;
