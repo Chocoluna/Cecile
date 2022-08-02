@@ -12,7 +12,7 @@
 </div>
 {% if featured %}
 <div class="featured-posts">
-    {% for row in featured|batch(3) %}
+    {% for child in featured|batch(3) %}
     <div class="row">
       <div class="large-4 columns">
         {% include 'partials/blog_item.html.twig' with {'page':child, 'truncate':true, 'readmore': false} %}
