@@ -1,9 +1,10 @@
 {% extends 'partials/base.html.twig' %}
 
-{% set featured = page.collection() %}
+
+{% set options = { items: {'@page.children': '/interviews'}, 'order': {'by': 'date', 'dir': 'desc'}} %}
+{% set featured = page.collection(options) %}
 
 {% block content %}
-{{dump(featured)}}
 <div class="home_posts_titles">
   <div class="row">
     <div class="large-12 columns">
