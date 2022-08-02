@@ -1,5 +1,5 @@
 ---
-title: Fullwidth
+title: Participer au projet
 body_classes: page page-template-default group-blog
 fullwidth: true
 ---
