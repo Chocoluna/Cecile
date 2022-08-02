@@ -1,6 +1,6 @@
 {% extends 'partials/base.html.twig' %}
 
-{% set featured = page.collection() %}
+{% set featured = page.taxonomy.featured %}
 
 {% block content %}
 <div class="home_posts_titles">
