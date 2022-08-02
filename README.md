@@ -17,5 +17,6 @@
 - titre site + articles : Frente en regular, couleur #151d3a
 - sous-titres : Raleway en regular, en #232222
 - texte article : Raleway en medium, en #232222
+- hover + page active : #7690b0
 
 - searchbar : contour, fond + clair, petite loupe? 
