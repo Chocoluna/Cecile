@@ -343,15 +343,16 @@ nav.top-bar .sub-menu li:nth-of-type(3) ul.sub-menu {
 
 .top-bar-section {
   position: relative;
-  top: 0.75em;
 }
+
 .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
   line-height: 45px;
 }
 
 section.top-bar-section {
-  display: inline-block;
+  display: block;
 }
+
 @media only screen and (max-width: 40em) {
   section.top-bar-section {
     display: block;
