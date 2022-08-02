@@ -4,8 +4,6 @@ body_classes: page page-template-default group-blog
 fullwidth: true
 ---
 
-Nullam id dolor id nibh ultricies vehicula ut id elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean lacinia bibendum nulla sed consectetur. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ullamcorper nulla non metus auctor fringilla.
+Pour participer, il vous suffit d’être un.e artiste ou un.e créateur.ice, peu importe le domaine (peinture, photo, création textile…), et d’avoir envie d’échanger autour de la créativité et de la vie d’artiste. L’idée est d’avoir une discussion entre nous dont je posterai par la suite un compte-rendu, accompagné d’un portrait que je prendrai le jour de l’entretien. Il n’est pas nécessaire d’être un.e artiste « professionnel.le » ou reconnu.e, néanmoins le projet s’adresse aux personnes qui sont dans une certaine démarche artistique et dont le travail représente une part assez importante de leur vie. Je souhaite mettre en avant des créateur.ice.s femmes et/ou queer, le projet n’est donc pas ouvert aux hommes cishets. Pour l’instant, je cherche des personnes résidant à Lyon et alentours.
 
-Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Nullam quis risus eget urna mollis ornare vel eu leo. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper nulla non metus auctor fringilla. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nulla vitae elit libero, a pharetra augue. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+N’hésitez pas à me contacter sur instagram @cecile.kl ou à contact@bleu-lumiere.fr si vous êtes intéressé.e ou si vous avez des questions !
