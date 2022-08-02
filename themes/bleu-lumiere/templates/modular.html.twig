@@ -1,8 +1,9 @@
 {% extends 'partials/base.html.twig' %}
 
-{% set featured = page.taxonomy.featured %}
+{% set featured = page.collection() %}
 
 {% block content %}
+{{dump(collection)}}
 <div class="home_posts_titles">
   <div class="row">
     <div class="large-12 columns">
