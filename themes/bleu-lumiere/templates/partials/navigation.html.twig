@@ -23,6 +23,7 @@
             <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
          </ul>
          <section class="top-bar-section">
+            <img id="menu-header" class="right" height="40px" src="{{url('theme://images/logo.png')}}" alt="logo">
             <ul id="menu-header" class="right">
               {% if theme_config.dropdown.enabled %}
                   {{ _self.loop(pages) }}
@@ -52,7 +53,6 @@
                         </a>
                     </li>
                 {% endif %}
-
             </ul>
          </section>
       </nav>
