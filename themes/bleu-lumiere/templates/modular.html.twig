@@ -1,6 +1,6 @@
 {% extends 'partials/base.html.twig' %}
 
-{% set featured = page.collection({'items':{'@taxonomy.featured': true},'order': {'by': 'date', 'dir': 'desc'}}) %}
+{% set featured = page.collection() %}
 
 {% block content %}
 <div class="home_posts_titles">
