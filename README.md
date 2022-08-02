@@ -32,9 +32,9 @@
 - [ ] passer les dates en français
 - [ ] Footer : bouton mentions légales
 - [ ] titres articles VS page "comment participer" => pourquoi c'est en gras WESH
-- [ ] texte pas justifié ?!
-- [ ] 
-
+- [ ] texte JUSTIFIE
+- [ ] page participation : réduire espace entre titre et texte
+- [ ] page participation : mettre des liens
 
 
 ##Style
