@@ -863,6 +863,12 @@ article table .even {
   margin: 0 0 1.5em;
   /* Make sure select elements fit in widgets */
 }
+
+.search_position{
+  position: relative;
+  top : -6px;
+}
+
 .widget select {
   max-width: 100%;
 }
