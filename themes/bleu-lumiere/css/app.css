@@ -3759,9 +3759,18 @@ p aside {
   font-style: italic;
 }
 
+/* FONT PATH
+ * -------------------------- */
+ @font-face {
+  font-family: 'Frente H1';
+  src: url('http://fonts.cdnfonts.com/css/frente-h1') format('otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
 /* Default header styles */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Frente H1", arial;
+  font-family: "Frente H1";
   font-weight: bold;
   font-style: normal;
   color: #151d3a;
