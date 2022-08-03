@@ -10,7 +10,7 @@
 - [X] changer polices + couleur texte
 - [X] effet quand on passe la souris sur du texte cliquable
 - [X] garder les effets des images (ombre + hover)
-- [ ] page "interviews" avec tous les articles accessibles présentés un peu comme sur la page d'accueil => carré 3*4
+- [X] page "interviews" avec tous les articles accessibles présentés un peu comme sur la page d'accueil => carré 3*4
 - [X] max nb article / page pour page "interview" : 12
 - [X] menu verticale = disparition
 - [ ] barre de navigation : marges + grandes en haut et sur les côtés

@@ -349,6 +349,7 @@ nav.top-bar .sub-menu li:nth-of-type(3) ul.sub-menu {
 
 .top-bar-section {
   position: relative;
+  margin: 10px;
 }
 
 .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
