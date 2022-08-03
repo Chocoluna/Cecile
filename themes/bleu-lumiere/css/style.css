@@ -1001,8 +1001,8 @@ footer .textwidget a:hover i {
 
 .home .footer-wrap {
   background-color: #303030;
-  position: sticky;
-  top: 100%;
+  position: absolute;
+  bottom: 0;
   width: 100vw;
 }
 
