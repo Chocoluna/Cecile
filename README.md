@@ -19,7 +19,7 @@
 - [X] barre de navigation : augmenter taille du logo + de la police
 - [X] barre de navigation : enlever le trait
 - [X] barre de navigation : Home => Accueil 
-- [ ] page d'accueil : Titre (featured post) aligné à gauche + en Raleway regular
+- [X] page d'accueil : Titre (featured post) aligné à gauche + en Raleway regular
 - [X] page d'accueil : suppr sous-titre
 - [ ] page d'accueil : afficher seulement photo + titre 
 - [ ] page d'accueil : réduire l'espace entre titre et photo
