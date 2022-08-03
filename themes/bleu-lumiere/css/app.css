@@ -495,7 +495,6 @@ body {
   color: #232222;
   padding: 0;
   margin: 0;
-  font-family: "Raleway Medium", arial;
   font-weight: normal;
   font-style: normal;
   line-height: 1.5;
@@ -573,7 +572,7 @@ button, .button {
   border-style: solid;
   border-width: 0px;
   cursor: pointer;
-  font-family: "Raleway Regular", arial;
+  font-family: "Raleway Regular", arial !important;
   font-weight: normal;
   line-height: normal;
   margin: 0 0 1.25rem;
@@ -1467,7 +1466,7 @@ select {
   border-color: #cccccc;
   padding: 0.5rem;
   font-size: 0.875rem;
-  font-family: "Raleway Regular", arial;
+  font-family: "Raleway Regular", arial !important;
   color: rgba(0, 0, 0, 0.75);
   line-height: normal;
   border-radius: 0;
@@ -3104,7 +3103,7 @@ meta.foundation-mq-topbar {
   color: #232222;
   padding: 12px 0 12px 0;
   padding-left: 21.66667px;
-  font-family: "Raleway Regular", arial;
+  font-family: "Raleway Regular", arial !important;
   font-size: 0.8125rem;
   font-weight: normal;
   text-transform: none;

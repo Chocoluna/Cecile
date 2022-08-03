@@ -5,9 +5,9 @@
   <header class="entry-header">
     <h3 class="entry-title">
       {% if page.header.link %}
-      <a href="{{ page.header.link }}">{{ page.title }}</a>
+      <a class="frente-h1" href="{{ page.header.link }}">{{ page.title }}</a>
       {% else %}
-      <a href="{{ page.url }}">{{ page.title }}</a>
+      <a class="frente-h1" href="{{ page.url }}">{{ page.title }}</a>
       {% endif %}
     </h3>
     {% if truncate %}
