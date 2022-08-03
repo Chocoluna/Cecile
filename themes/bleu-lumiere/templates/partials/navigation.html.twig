@@ -33,7 +33,7 @@
                     <li id="menu-item-{{ loop.index }}" class="{{ current_page }}">
                         <a href="{{ page.url }}">
                             {% if page.header.icon %}<i class="fa fa-{{ page.header.icon }}"></i>{% endif %}
-                            {{ page.menu }}
+                            {{ page.menu|capitalize }} 
                         </a>
                     </li>
                   {% endfor %}

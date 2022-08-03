@@ -13,8 +13,8 @@
 - [X] page "interviews" avec tous les articles accessibles présentés un peu comme sur la page d'accueil => carré 3*4
 - [X] max nb article / page pour page "interview" : 12
 - [X] menu verticale = disparition
-- [ ] barre de navigation : marges + grandes en haut et sur les côtés
-- [ ] barre de navigation : alignement => boutons alignés sur la place du sous-titres
+- [X] barre de navigation : marges + grandes en haut et sur les côtés
+- [X] barre de navigation : alignement => boutons alignés sur la place du sous-titres
 - [ ] barre de navigation : boutons pas en majuscule
 - [ ] barre de navigation : augmenter taille du logo + de la police
 - [ ] barre de navigation : enlever le trait
