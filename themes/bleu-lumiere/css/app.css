@@ -53,6 +53,14 @@ body {
   font-style: normal;
 }
 
+.raleway-regular{
+  font-family: "Raleway Regular", arial !important;
+}
+
+.frente-h1{
+  font-family: "Frente H1", sans-serif !important;
+}
+
 /* HTML5 display definitions
    ========================================================================== */
 /**
