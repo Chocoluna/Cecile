@@ -18,7 +18,7 @@
 - [X] barre de navigation : boutons pas en majuscule
 - [X] barre de navigation : augmenter taille du logo + de la police
 - [X] barre de navigation : enlever le trait
-- [ ] barre de navigation : Home => Accueil + Search => pas de texte, juste un logo
+- [X] barre de navigation : Home => Accueil 
 - [ ] page d'accueil : Titre (featured post) aligné à gauche + en Raleway regular
 - [X] page d'accueil : suppr sous-titre
 - [ ] page d'accueil : afficher seulement photo + titre 
@@ -44,3 +44,7 @@
 - hover + page active : #7690b0
 
 - searchbar : contour, fond + clair, petite loupe? 
+
+
+Plugin : j'ai pas la main sur le code
+- [ ] barre de navigation : Search => pas de texte, juste un logo

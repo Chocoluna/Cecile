@@ -35,6 +35,24 @@ body {
   margin: 0;
 }
 
+/* FONT PATH Frente H1
+ * -------------------------- */
+ @font-face {
+  font-family: 'Frente H1';
+  src: url('../fonts/fonts/FrenteH1-Regular.otf') format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* FONT PATH Raleway Regular
+ * -------------------------- */
+ @font-face {
+  font-family: 'Raleway Regular';
+  src: url('../fonts/fonts/Raleway-Regular.ttf') format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
 /* HTML5 display definitions
    ========================================================================== */
 /**
@@ -1441,7 +1459,7 @@ select {
   border-color: #cccccc;
   padding: 0.5rem;
   font-size: 0.875rem;
-  font-family: "Railway Regular", arial;
+  font-family: "Raleway Regular", arial;
   color: rgba(0, 0, 0, 0.75);
   line-height: normal;
   border-radius: 0;
@@ -3757,15 +3775,6 @@ p aside {
   font-size: 0.875rem;
   line-height: 1.35;
   font-style: italic;
-}
-
-/* FONT PATH
- * -------------------------- */
- @font-face {
-  font-family: 'Frente H1';
-  src: url('../fonts/fonts/FrenteH1-Regular.otf') format("opentype");
-  font-weight: normal;
-  font-style: normal;
 }
 
 /* Default header styles */
