@@ -1,8 +1,5 @@
 <form class="search-box">
-    <div style="border: 1px solid #DDD;">
-        <img src="../../img/loupe.png"/>
-        <input type="search" value="{{ query }}" data-search-input="{{ base_url_relative }}{{ config.plugins.simplesearch.route}}/query" />
-    </div>
+    <input type="search" placeholder="Search..." value="{{ query }}" data-search-input="{{ base_url_relative }}{{ config.plugins.simplesearch.route}}/query" />
     <script>
     jQuery(document).ready(function($){
         var input = $('[data-search-input]');

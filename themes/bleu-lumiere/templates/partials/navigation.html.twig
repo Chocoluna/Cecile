@@ -42,10 +42,8 @@
                   {% endfor %}
               {% endif %}
               {% if config.plugins.simplesearch.enabled %}
-                    <li>        
-                        <a class="search_position">
-                          {% include 'partials/simplesearch_searchbox.html.twig' %}
-                        </a>
+                    <li>       
+                        {% include 'partials/simplesearch_searchbox.html.twig' %}
                     </li>
                 {% endif %}
             </ul>
