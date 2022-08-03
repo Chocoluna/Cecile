@@ -16,8 +16,8 @@
 - [X] barre de navigation : marges + grandes en haut et sur les côtés
 - [X] barre de navigation : alignement => boutons alignés sur la place du sous-titres
 - [X] barre de navigation : boutons pas en majuscule
-- [ ] barre de navigation : augmenter taille du logo + de la police
-- [ ] barre de navigation : enlever le trait
+- [X] barre de navigation : augmenter taille du logo + de la police
+- [X] barre de navigation : enlever le trait
 - [ ] barre de navigation : Home => Accueil + Search => pas de texte, juste un logo
 - [ ] page d'accueil : Titre (featured post) aligné à gauche + en Raleway regular
 - [X] page d'accueil : suppr sous-titre
