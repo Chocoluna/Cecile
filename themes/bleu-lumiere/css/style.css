@@ -48,6 +48,33 @@ Gateway is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic
 /*--------------------------------------------------------------
 1.0 Defaults
 --------------------------------------------------------------*/
+
+/* FONT PATH Frente H1
+ * -------------------------- */
+ @font-face {
+  font-family: 'Frente H1';
+  src: url('../fonts/fonts/FrenteH1-Regular.otf') format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* FONT PATH Raleway Regular
+ * -------------------------- */
+ @font-face {
+  font-family: 'Raleway Regular';
+  src: url('../fonts/fonts/Raleway-Regular.ttf') format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.raleway-regular{
+  font-family: "Raleway Regular", arial !important;
+}
+
+.frente-h1{
+  font-family: "Frente H1", sans-serif !important;
+}
+
 a {
   -o-transition: 0.2s;
   -ms-transition: 0.2s;
@@ -387,6 +414,30 @@ section.top-bar-section .dropdown li.title h5 a {
 .header-bg {
   background-color: #e8554e;
 }
+
+.home h1 h3 h4 h5 h6 {
+  font-family: "Frente H1", sans-serif !important;
+  font-weight: bold;
+  font-style: normal;
+  color: #151d3a;
+  text-rendering: optimizeLegibility;
+  margin-top: 0.2rem;
+  margin-bottom: 1.5rem;
+  line-height: 1.4;
+}
+
+
+.home h2 {
+  font-family: "Raleway Regular", arial !important;
+  font-weight: bold;
+  font-style: normal;
+  color: #151d3a;
+  text-rendering: optimizeLegibility;
+  margin-top: 0.2rem;
+  margin-bottom: 1.5rem;
+  line-height: 1.4;
+}
+
 
 /*--------------------------------------------------------------
 7.1 Home Hero
