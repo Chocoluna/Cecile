@@ -294,7 +294,7 @@ object {
 --------------------------------------------------------------*/
 nav.top-bar {
   text-align: center;
-  margin: 15px;
+  padding: 15px;
 }
 @media only screen and (min-width: 64.063em) {
   nav.top-bar {
@@ -1001,7 +1001,6 @@ footer .textwidget a:hover i {
 --------------------------------------------------------------*/
 .footer-wrap {
   background-color: #303030;
-  margin-top: 8em;
 }
 
 .home .footer-wrap {
