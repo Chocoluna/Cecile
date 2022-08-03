@@ -23,7 +23,10 @@
             <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
          </ul>
          <section class="top-bar-section">
-            <img id="menu-header" class="left logo" height="40px" src="https://raw.githubusercontent.com/Chocoluna/Cecile/dev/themes/bleu-lumiere/img/logo.png" alt="Logo">
+            <a href="/">
+                <img id="menu-header" class="left logo" height="40px" src="https://raw.githubusercontent.com/Chocoluna/Cecile/dev/themes/bleu-lumiere/img/logo.png" alt="Logo">
+            </a>
+
             <ul id="menu-header" class="right nav-style">
               {% if theme_config.dropdown.enabled %}
                   {{ _self.loop(pages) }}
@@ -33,7 +36,7 @@
                     <li id="menu-item-{{ loop.index }}" class="{{ current_page }}">
                         <a href="{{ page.url }}">
                             {% if page.header.icon %}<i class="fa fa-{{ page.header.icon }}"></i>{% endif %}
-                            {{ page.menu|capitalize }} 
+                            {{ page.menu }} 
                         </a>
                     </li>
                   {% endfor %}
@@ -42,7 +45,7 @@
                   <li>
                       <a href="{{ mitem.url }}">
                           {% if mitem.icon %}<i class="fa fa-{{ mitem.icon }}"></i>{% endif %}
-                          {{ mitem.text }}
+                          {{ mitem.text|capitalize }}
                       </a>
                   </li>
               {% endfor %}
