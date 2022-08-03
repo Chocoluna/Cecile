@@ -24,11 +24,11 @@
   <div id="primary" class="content-area">
     <div class="large-{% if not page.header.fullwidth %}8{% else %}12{% endif %} columns">
       <main id="main" class="site-main" role="main">
-        {% for child in collection %}
+        {% for row in collection|batch(3) %}
           <div class="row">
-          {% for row in featured|batch(3) %}
+          {% for child in row %}
             <div class="large-4 columns">
-              {% include 'partials/blog_item.html.twig' with {'page':row, 'truncate':true, 'readmore': false} %}
+              {% include 'partials/blog_item.html.twig' with {'page':child, 'truncate':true, 'readmore': false} %}
             </div>
           {% endfor %}
           </div>
