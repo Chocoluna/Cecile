@@ -284,7 +284,7 @@ object {
 }
 
 .logo{
-  height: 60px;
+  height: 65px;
   margin-left: 20px;
   margin-top: 3px;
 }
@@ -375,6 +375,10 @@ section.top-bar-section ul li > a {
 section.top-bar-section .dropdown li.title h5 a {
   color: #888888;
   font-weight: bold;
+}
+
+.nav-style{
+  margin-top: 22px;
 }
 
 /*--------------------------------------------------------------
