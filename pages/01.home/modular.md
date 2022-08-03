@@ -1,6 +1,6 @@
 ---
 title: Home
-menu: Home
+menu: Accueil
 onpage_menu: false
 body_classes: 'home page page-template page-template-template-home page-template-template-home-php group-blog'
 content:
