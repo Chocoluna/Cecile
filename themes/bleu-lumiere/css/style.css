@@ -367,7 +367,7 @@ section.top-bar-section {
 }
 section.top-bar-section ul li > a {
   text-transform: capitalize;
-  font-size: 0.875rem;
+  font-size: 1.3rem;
   letter-spacing: 0.06em;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;

@@ -15,7 +15,7 @@
 - [X] menu verticale = disparition
 - [X] barre de navigation : marges + grandes en haut et sur les côtés
 - [X] barre de navigation : alignement => boutons alignés sur la place du sous-titres
-- [ ] barre de navigation : boutons pas en majuscule
+- [X] barre de navigation : boutons pas en majuscule
 - [ ] barre de navigation : augmenter taille du logo + de la police
 - [ ] barre de navigation : enlever le trait
 - [ ] barre de navigation : Home => Accueil + Search => pas de texte, juste un logo
