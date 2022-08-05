@@ -748,13 +748,6 @@ article table .even {
 .single article .author.vcard .fn {
   font-weight: normal;
 }
-.single article .entry-footer {
-  margin-top: 3em;
-}
-.single article .entry-footer .right {
-  padding: 0.5em 0;
-  color: #666666;
-}
 
 .post-navigation {
   margin: 0 0 3em 0;

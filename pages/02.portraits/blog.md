@@ -1,7 +1,7 @@
 ---
-title: Interviews
+title: Portraits
 blog_url: blog
-menu: Interviews
+menu: Portraits
 body_classes: blog group-blog infinite-scroll
 
 sitemap:
