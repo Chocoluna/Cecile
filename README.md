@@ -24,15 +24,15 @@
 - [ ] page d'accueil : afficher seulement photo + titre 
 - [ ] page d'accueil : réduire l'espace entre titre et photo
 - [X] page Interview : sticky post + titre + ss-titre = suppr
-- [ ] page Interview : articles => infos = seulement nom de l'article (+ date?) et mettre infos EN-DESSOUS de la photo
+- [X] page Interview : articles => infos = seulement nom de l'article (+ date?) et mettre infos EN-DESSOUS de la photo
 - [ ] Focus article : cf maquette. => image à droite + taille titre ++
 - [X] Focus article : Posted on July 04, 2014 by Rescue Themes => En français + enlever "by bidule"
 - [X] Focus article : enlever "related posts" + les tags
-- [ ] Focus article : retravailler bouton commentaire + lien
+- [X] Focus article : retravailler bouton commentaire + lien
 - [ ] passer les dates en français
 - [ ] Footer : bouton mentions légales
 - [ ] titres articles VS page "comment participer" => pourquoi c'est en gras WESH
-- [ ] texte JUSTIFIE
+- [X] texte JUSTIFIE
 - [ ] page participation : réduire espace entre titre et texte
 - [ ] page participation : mettre des liens
 
