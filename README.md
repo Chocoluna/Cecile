@@ -24,7 +24,7 @@
 - [ ] page d'accueil : afficher seulement photo + titre 
 - [ ] page d'accueil : réduire l'espace entre titre et photo
 - [X] page Interview : sticky post + titre + ss-titre = suppr
-- [X] page Interview : articles => infos = seulement nom de l'article (+ date?) et mettre infos EN-DESSOUS de la photo
+- [ ] page Interview : articles => infos = seulement nom de l'article (+ date?) et mettre infos EN-DESSOUS de la photo
 - [ ] Focus article : cf maquette. => image à droite + taille titre ++
 - [X] Focus article : Posted on July 04, 2014 by Rescue Themes => En français + enlever "by bidule"
 - [X] Focus article : enlever "related posts" + les tags
@@ -32,13 +32,13 @@
 - [ ] passer les dates en français
 - [ ] Footer : bouton mentions légales
 - [ ] titres articles VS page "comment participer" => pourquoi c'est en gras WESH
-- [X] texte JUSTIFIE
+- [ ] texte JUSTIFIE
 - [ ] page participation : réduire espace entre titre et texte
 - [ ] page participation : mettre des liens
 
 
 ##Style
-- titre site + articles : Frente en regular, couleur #151d3a
+- titre site + articles : Frente en regular, couleur #17317a
 - sous-titres : Raleway en regular, en #232222
 - texte article : Raleway en medium, en #232222
 - hover + page active : #7690b0
