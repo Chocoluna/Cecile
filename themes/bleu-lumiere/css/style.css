@@ -645,7 +645,7 @@ article .featured-image img {
   float: left;
   border: 1px solid #EFEFEF;
   margin-right: 1.875rem;
-  margin-bottom: 1.875rem;
+  margin-bottom: 0.875rem;
   background-clip: padding-box;
   /* stops bg color from leaking outside the border: */
   -webkit-border-radius: 3px;
