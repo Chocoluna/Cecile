@@ -32,9 +32,9 @@
 - [X] Focus article : retravailler bouton commentaire + lien
 - [ ] passer les dates en français
 - [ ] Footer : bouton mentions légales?
-- [ ] titres articles VS page "comment participer" => pourquoi c'est en gras WESH
+- [X] titres articles VS page "comment participer" => pourquoi c'est en gras WESH
 - [X] texte JUSTIFIE
-- [ ] page participation : réduire espace entre titre et texte
+- [X] page participation : réduire espace entre titre et texte
 - [X] page participation : mettre des liens
 
 
