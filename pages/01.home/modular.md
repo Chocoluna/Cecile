@@ -16,4 +16,4 @@ content:
             - _contact
 ---
 
-## Featured Posts
+#### Derniers Portraits publiés

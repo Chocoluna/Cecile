@@ -438,6 +438,17 @@ section.top-bar-section .dropdown li.title h5 a {
   line-height: 1.4;
 }
 
+.home h4 {
+  font-family: "Raleway Regular", arial !important;
+  font-style: normal;
+  font-size : 20px;
+  color: #232222 ;
+  text-rendering: optimizeLegibility;
+  margin-top: 0.2rem;
+  margin-bottom: 1.5rem;
+  line-height: 1.4;
+}
+
 
 /*--------------------------------------------------------------
 7.1 Home Hero
