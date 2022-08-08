@@ -25,7 +25,7 @@
 - [X] page d'accueil : réduire l'espace entre titre et photo
 - [ ] page d'accueil : augmenter police titre articles 
 - [X] page Portraits : sticky post + titre + ss-titre = suppr
-- [ ] page Portraits : articles => infos = seulement nom de l'article (+ date?) et mettre infos EN-DESSOUS de la photo
+- [X] page Portraits : articles => infos = seulement nom de l'article (+ date?) et mettre infos EN-DESSOUS de la photo
 - [ ] Focus article : cf maquette. => image à droite + taille titre ++
 - [X] Focus article : Posted on July 04, 2014 by Rescue Themes => En français + enlever "by bidule"
 - [X] Focus article : enlever "related posts" + les tags
