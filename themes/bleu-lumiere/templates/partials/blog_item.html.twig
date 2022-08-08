@@ -10,11 +10,6 @@
       <a class="frente-h1" href="{{ page.url }}">{{ page.title }}</a>
       {% endif %}
     </h3>
-    {% if truncate %}
-    <div class="entry-date">
-      {{ 'GRAV.MONTHS_OF_THE_YEAR'|ta(page.date|date('n') - 1) }} {{ page.date|date('d, Y') }}
-    </div>
-    {% endif %}
 
     {% if not truncate %}
     <div class="entry-meta">
