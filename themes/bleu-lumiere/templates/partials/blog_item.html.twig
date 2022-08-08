@@ -39,8 +39,7 @@
     {{ page.content|truncate(200, true)|raw }}
     {% elseif truncate and page.summary != page.content %}
     <p>
-      {{ page.summary|striptags }}
-      <a href="{{ page.url }}">more...</a>
+      click to read!
     </p>
     {% elseif truncate %}
     <p>
