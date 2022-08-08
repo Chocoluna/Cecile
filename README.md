@@ -43,7 +43,7 @@
 - [ ] bouton mentions légales dans A propos. 
 - [ ] images articles => faire un test de mettre ++ d'espaces entre les carrés ( screen avant / après) => app.css >> .colums
 - [ ] navbar FIXED quand scroll ou bouton pour remonter
-- [ ] faie marcher le module Commentaires (?!)
+- [ ] faire marcher le module Commentaires (?!)
 
 
 ##Style
