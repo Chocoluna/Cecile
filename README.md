@@ -33,15 +33,15 @@
 - [X] page participation : mettre des liens
 
 ##TODO
-- [ ] page d'accueil : augmenter police titre articles
-- [ ] page d'accueil : featured post en gris #232222 et en plus petit (cf maquette) => Derniers portaits publiés
-- [ ] page portrait : matcher taille titres articles avec page d'accueil (++ grand)
+- [X] page d'accueil : augmenter police titre articles
+- [X] page d'accueil : featured post en gris #232222 et en plus petit (cf maquette) => Derniers portaits publiés
+- [X] page portrait : matcher taille titres articles avec page d'accueil (++ grand)
 - [ ] page participation + contact => marge côté + grande (pour que le paragraphe sont plus compacte)  
 - [ ] Focus article : cf maquette. => image à droite + taille titre ++
 - [ ] passer les dates en français
-- [ ] SUPPR FOOTER
+- [X] SUPPR FOOTER
 - [ ] bouton mentions légales dans A propos. 
-- [ ] images articles => faire un test de mettre ++ d'espaces entre les carrés ( screen avant / après avant modif définitives)
+- [ ] images articles => faire un test de mettre ++ d'espaces entre les carrés ( screen avant / après) => app.css >> .colums
 - [ ] navbar FIXED quand scroll ou bouton pour remonter
 - [ ] faie marcher le module Commentaires (?!)
 
