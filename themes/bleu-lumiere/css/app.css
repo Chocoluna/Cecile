@@ -223,7 +223,7 @@ svg:not(:root) {
  * Address margin not present in IE 8/9 and Safari.
  */
 figure {
-  margin: 1em 10px;
+  margin: 1em 40px;
 }
 
 /**
@@ -3786,8 +3786,7 @@ p aside {
 
 /* Default header styles */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: bold;
-  font-style: normal;
+  font-family: 'Raleway Regular', arial;
   color: #17317a ;
   text-rendering: optimizeLegibility;
   margin-top: 0.2rem;
