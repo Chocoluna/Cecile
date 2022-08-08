@@ -1,6 +1,6 @@
 # Cecile
 
-##TODO
+##DONE
 - [X] barre de recherche
 - [X] maj barre de navigation
 - [X] page d'accueil qui défile PAS vers le bas (vs le template original)
@@ -19,23 +19,31 @@
 - [X] barre de navigation : augmenter taille du logo + de la police
 - [X] barre de navigation : enlever le trait
 - [X] barre de navigation : Home => Accueil 
-- [X] page d'accueil : Titre (featured post) aligné à gauche + en Raleway regular
 - [X] page d'accueil : suppr sous-titre
-- [ ] page d'accueil : afficher seulement photo + titre 
+- [X] page d'accueil : afficher seulement photo + titre 
 - [X] page d'accueil : réduire l'espace entre titre et photo
-- [ ] page d'accueil : augmenter police titre articles 
 - [X] page Portraits : sticky post + titre + ss-titre = suppr
 - [X] page Portraits : articles => infos = seulement nom de l'article (+ date?) et mettre infos EN-DESSOUS de la photo
-- [ ] Focus article : cf maquette. => image à droite + taille titre ++
 - [X] Focus article : Posted on July 04, 2014 by Rescue Themes => En français + enlever "by bidule"
 - [X] Focus article : enlever "related posts" + les tags
 - [X] Focus article : retravailler bouton commentaire + lien
-- [ ] passer les dates en français
-- [ ] Footer : bouton mentions légales?
 - [X] titres articles VS page "comment participer" => pourquoi c'est en gras WESH
 - [X] texte JUSTIFIE
 - [X] page participation : réduire espace entre titre et texte
 - [X] page participation : mettre des liens
+
+##TODO
+- [ ] page d'accueil : augmenter police titre articles
+- [ ] page d'accueil : featured post en gris #232222 et en plus petit (cf maquette) => Derniers portaits publiés
+- [ ] page portrait : matcher taille titres articles avec page d'accueil (++ grand)
+- [ ] page participation + contact => marge côté + grande (pour que le paragraphe sont plus compacte)  
+- [ ] Focus article : cf maquette. => image à droite + taille titre ++
+- [ ] passer les dates en français
+- [ ] SUPPR FOOTER
+- [ ] bouton mentions légales dans A propos. 
+- [ ] images articles => faire un test de mettre ++ d'espaces entre les carrés ( screen avant / après avant modif définitives)
+- [ ] navbar FIXED quand scroll ou bouton pour remonter
+- [ ] faie marcher le module Commentaires (?!)
 
 
 ##Style

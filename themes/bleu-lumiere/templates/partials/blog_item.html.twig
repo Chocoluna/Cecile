@@ -3,13 +3,13 @@
     {{ page.media.images|first.cropZoom(356,356).html|raw }}
   </div>
   <header class="entry-header">
-    <h3 class="entry-title">
+    <h2 class="entry-title">
       {% if page.header.link %}
       <a class="frente-h1" href="{{ page.header.link }}">{{ page.title }}</a>
       {% else %}
       <a class="frente-h1" href="{{ page.url }}">{{ page.title }}</a>
       {% endif %}
-    </h3>
+    </h2>
 
     {% if not truncate %}
     <div class="entry-meta">
