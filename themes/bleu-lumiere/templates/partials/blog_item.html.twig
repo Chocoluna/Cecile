@@ -38,9 +38,7 @@
     {% elseif truncate and readmore is sameas(false) %}
     {{ page.content|truncate(200, true)|raw }}
     {% elseif truncate and page.summary != page.content %}
-    <p>
-      click to read!
-    </p>
+    <p></p>
     {% elseif truncate %}
     <p>
       {{ page.content|truncate(550)|striptags }}
