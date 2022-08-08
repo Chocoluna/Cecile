@@ -16,7 +16,7 @@
     <div class="row">
     {% for child in featured[:3] %}
       <div class="large-4 columns">
-        {% include 'partials/blog_item.html.twig' with {'page':child, 'truncate':true, 'readmore': false} %}
+        {% include 'partials/blog_item.html.twig' with {'page':child, 'truncate':true, 'readmore': true} %}
       </div>
     {% endfor %}
     </div>
