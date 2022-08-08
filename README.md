@@ -10,8 +10,8 @@
 - [X] changer polices + couleur texte
 - [X] effet quand on passe la souris sur du texte cliquable
 - [X] garder les effets des images (ombre + hover)
-- [X] page "interviews" avec tous les articles accessibles présentés un peu comme sur la page d'accueil => carré 3*4
-- [X] max nb article / page pour page "interview" : 12
+- [X] page "Portraitss" avec tous les articles accessibles présentés un peu comme sur la page d'accueil => carré 3*4
+- [X] max nb article / page pour page "Portraits" : 12
 - [X] menu verticale = disparition
 - [X] barre de navigation : marges + grandes en haut et sur les côtés
 - [X] barre de navigation : alignement => boutons alignés sur la place du sous-titres
@@ -23,8 +23,9 @@
 - [X] page d'accueil : suppr sous-titre
 - [ ] page d'accueil : afficher seulement photo + titre 
 - [X] page d'accueil : réduire l'espace entre titre et photo
-- [X] page Interview : sticky post + titre + ss-titre = suppr
-- [ ] page Interview : articles => infos = seulement nom de l'article (+ date?) et mettre infos EN-DESSOUS de la photo
+- [ ] page d'accueil : augmenter police titre articles 
+- [X] page Portraits : sticky post + titre + ss-titre = suppr
+- [ ] page Portraits : articles => infos = seulement nom de l'article (+ date?) et mettre infos EN-DESSOUS de la photo
 - [ ] Focus article : cf maquette. => image à droite + taille titre ++
 - [X] Focus article : Posted on July 04, 2014 by Rescue Themes => En français + enlever "by bidule"
 - [X] Focus article : enlever "related posts" + les tags
