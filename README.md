@@ -31,20 +31,24 @@
 - [X] texte JUSTIFIE
 - [X] page participation : réduire espace entre titre et texte
 - [X] page participation : mettre des liens
-
-##TODO
 - [X] page d'accueil : augmenter police titre articles
 - [X] page d'accueil : featured post en gris #232222 et en plus petit (cf maquette) => Derniers portaits publiés
 - [X] page portrait : matcher taille titres articles avec page d'accueil (++ grand)
+- [X] SUPPR FOOTER
+- [X] images articles => faire un test de mettre ++ d'espaces entre les carrés ( screen avant / après) => app.css >> .colums
+
+##TODO
 - [ ] page participation + contact => marge côté + grande (pour que le paragraphe sont plus compacte)  
 - [ ] Focus article : cf maquette. => image à droite + taille titre ++
-- [ ] passer les dates en français
-- [X] SUPPR FOOTER
 - [ ] bouton mentions légales dans A propos. 
-- [ ] images articles => faire un test de mettre ++ d'espaces entre les carrés ( screen avant / après) => app.css >> .colums
 - [ ] navbar FIXED quand scroll ou bouton pour remonter
-- [ ] faire marcher le module Commentaires (?!)
+- [ ] police des titres : fontweight : light?
+- [ ] images cliquables (?)
+- [ ] favicon ! 
 
+- [ ] faire marcher le module Commentaires => THEAU
+- [ ] MailingList => THEAU
+- [ ] passer les dates en français => THEAU
 
 ##Style
 - titre site + articles : Frente en regular, couleur #17317a
