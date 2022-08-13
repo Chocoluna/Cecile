@@ -685,26 +685,6 @@ article .featured-image img {
   transition: 0.2s;
 }
 
-.home article .featured-image img {
-  width: 500px;
-  float: left;
-  border: 1px solid #EFEFEF;
-  margin-left: 2rem;
-  margin-bottom: 1rem;
-  background-clip: padding-box;
-  /* stops bg color from leaking outside the border: */
-  -webkit-border-radius: 3px;
-  border-radius: 3px;
-  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
-  -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
-  -o-transition: 0.2s;
-  -ms-transition: 0.2s;
-  -moz-transition: 0.2s;
-  -webkit-transition: 0.2s;
-  transition: 0.2s;
-}
-
 article .featured-image img:hover {
   opacity: 0.8;
 }
