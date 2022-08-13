@@ -1,5 +1,7 @@
 <article {% if loop.index %}id="post-{{ loop.index }}"{% endif %} class="clearfix {% if loop.index %}post-{{ loop.index }}{% endif %} post type-post format-standard has-post-thumbnail {% if truncate %}{% if page.header.post_class %}{{ page.header.post_class }}{% endif %}{% endif %} hentry category-featured">
-  
+  <div class="featured-image">
+    {{ page.media.images|first.cropZoom(356,356).html|raw }}
+  </div>
   <header class="entry-header">
     <h2 class="entry-title">
       {% if page.header.link %}
@@ -54,10 +56,6 @@
     </div>
     <hr class="rescue-spacing " style="height: 10px">
     {% endif %}
-
-    <div class="featured-image">
-      {{ page.media.images|first.cropZoom(356,356).html|raw }}
-    </div>
 
     {% if page.header.toggles %}
     <hr class="rescue-spacing " style="height: 30px">
