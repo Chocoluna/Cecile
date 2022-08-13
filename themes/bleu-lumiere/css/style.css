@@ -341,12 +341,12 @@ nav.top-bar {
     height: 100%;
   }
 }
-@media only screen and (min-width: 40.063em) {
+@media only screen and (min-width: 60.063em) {
   nav.top-bar {
     height: 100%;
   }
 }
-@media only screen and (max-width: 40em) {
+@media only screen and (max-width: 60em) {
   nav.top-bar {
     text-align: left;
   }
@@ -361,17 +361,17 @@ nav.top-bar .dropdown {
   border-right: 1px solid #DDDDDD;
   border-bottom: 1px solid #DDDDDD;
 }
-@media only screen and (max-width: 40em) {
+@media only screen and (max-width: 60em) {
   nav.top-bar .dropdown {
     border-left: none;
   }
 }
-@media only screen and (max-width: 40em) {
+@media only screen and (max-width: 60em) {
   nav.top-bar .dropdown {
     border-right: none;
   }
 }
-@media only screen and (max-width: 40em) {
+@media only screen and (max-width: 60em) {
   nav.top-bar .dropdown {
     border-bottom: none;
   }
@@ -379,7 +379,7 @@ nav.top-bar .dropdown {
 nav.top-bar .sub-menu {
   border-top: 1px solid #DDDDDD;
 }
-@media only screen and (max-width: 40em) {
+@media only screen and (max-width: 60em) {
   nav.top-bar .sub-menu {
     border-top: none;
   }
@@ -400,7 +400,7 @@ section.top-bar-section {
   display: block;
 }
 
-@media only screen and (max-width: 40em) {
+@media only screen and (max-width: 60em) {
   section.top-bar-section {
     display: block;
   }
