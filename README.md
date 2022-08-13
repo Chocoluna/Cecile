@@ -42,7 +42,7 @@
 - [ ] Focus article : cf maquette. => image à droite + taille titre ++
 - [ ] bouton mentions légales dans A propos. 
 - [ ] navbar FIXED quand scroll ou bouton pour remonter
-- [ ] police des titres : fontweight : light?
+- [X] police des titres : fontweight : lighter?
 - [ ] images cliquables (?)
 - [X] favicon ! 
 
