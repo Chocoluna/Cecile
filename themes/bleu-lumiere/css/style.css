@@ -303,6 +303,9 @@ object {
 
 .site-header hr {
   margin: 0 0;
+}
+
+.site-header {
   position: fixed;
   width: 100%;
   background: white;
