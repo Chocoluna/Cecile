@@ -44,7 +44,7 @@
 - [ ] navbar FIXED quand scroll ou bouton pour remonter
 - [ ] police des titres : fontweight : light?
 - [ ] images cliquables (?)
-- [ ] favicon ! 
+- [X] favicon ! 
 
 - [ ] faire marcher le module Commentaires => THEAU
 - [ ] MailingList => THEAU

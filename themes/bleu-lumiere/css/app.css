@@ -40,7 +40,7 @@ body {
  @font-face {
   font-family: 'Frente H1';
   src: url('../fonts/fonts/FrenteH1-Regular.otf') format("opentype");
-  font-weight: normal;
+  font-weight: lighter;
   font-style: normal;
 }
 
