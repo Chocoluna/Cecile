@@ -38,10 +38,11 @@
 - [X] images articles => faire un test de mettre ++ d'espaces entre les carrés ( screen avant / après) => app.css >> .colums
 
 ##TODO
-- [ ] page participation + contact => marge côté + grande (pour que le paragraphe sont plus compacte)  
-- [ ] Focus article : cf maquette. => image à droite + taille titre ++
-- [ ] bouton mentions légales dans A propos. 
-- [ ] navbar FIXED quand scroll ou bouton pour remonter
+- [ ] page participation + contact => marge côté + grande (pour que le paragraphe sont plus compacte)
+- [X] page participation : rajouter le mailto automatique
+- [X] Focus article : cf maquette. => image à droite + taille titre ++
+- [ ] bouton(?) mentions légales dans A propos. 
+- [X] navbar FIXED quand scroll ou bouton pour remonter
 - [X] police des titres : fontweight : lighter?
 - [ ] images cliquables (?)
 - [X] favicon ! 
