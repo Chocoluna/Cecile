@@ -652,11 +652,11 @@ article hr {
   margin: 2.25rem 0 2.1875rem;
 }
 article .featured-image img {
-  width: 356px;
-  float: left;
+  width: 500px;
+  float: right;
   border: 1px solid #EFEFEF;
-  margin-right: rem;
-  margin-bottom: 0rem;
+  margin-left: 2rem;
+  margin-bottom: 1rem;
   background-clip: padding-box;
   /* stops bg color from leaking outside the border: */
   -webkit-border-radius: 3px;
