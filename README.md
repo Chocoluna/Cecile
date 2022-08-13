@@ -36,20 +36,19 @@
 - [X] page portrait : matcher taille titres articles avec page d'accueil (++ grand)
 - [X] SUPPR FOOTER
 - [X] images articles => faire un test de mettre ++ d'espaces entre les carrés ( screen avant / après) => app.css >> .colums
-
-##TODO
 - [X] page participation + contact => marge côté + grande (pour que le paragraphe sont plus compacte)
 - [X] page participation : rajouter le mailto automatique
 - [X] Focus article : cf maquette. => image à droite + taille titre ++
-- [ ] bouton(?) mentions légales dans A propos. 
 - [X] navbar FIXED quand scroll ou bouton pour remonter
 - [X] police des titres : fontweight : lighter?
-- [ ] images cliquables (?)
+- [X] images cliquables (?)
 - [X] favicon ! 
 
+##TODO
 - [ ] faire marcher le module Commentaires => THEAU
 - [ ] MailingList => THEAU
 - [ ] passer les dates en français => THEAU
+- [ ] bouton(?) mentions légales dans A propos. 
 
 ##Style
 - titre site + articles : Frente en regular, couleur #17317a
