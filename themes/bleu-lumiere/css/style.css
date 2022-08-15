@@ -694,7 +694,7 @@ article .featured-image img:hover {
   }
 }
 article .entry-header {
-  margin-bottom: 2.75em;
+  margin-bottom: 0.75em;
 }
 @media only screen and (max-width: 40em) {
   article .entry-header {
