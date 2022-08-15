@@ -49,6 +49,7 @@
 - [ ] MailingList => THEAU
 - [ ] passer les dates en français => THEAU
 - [ ] bouton(?) mentions légales dans A propos. 
+- [ ] BUG toggle navbar : check style.css >> lignes 335 à 422
 
 ##Style
 - titre site + articles : Frente en regular, couleur #17317a
