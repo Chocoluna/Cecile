@@ -1,15 +1,4 @@
 <article {% if loop.index %}id="post-{{ loop.index }}"{% endif %} class="clearfix {% if loop.index %}post-{{ loop.index }}{% endif %} post type-post format-standard has-post-thumbnail {% if truncate %}{% if page.header.post_class %}{{ page.header.post_class }}{% endif %}{% endif %} hentry category-featured">
-  <div class="featured-image">
-      {% if page.header.link %}
-        <a href="{{ page.header.link }}">
-          {{ page.media.images|first.cropZoom(356,356).html|raw }}
-        </a>
-      {% else %}
-        <a href="{{ page.url }}">
-          {{ page.media.images|first.cropZoom(356,356).html|raw }}
-        </a>
-      {% endif %}
-  </div>
   <header class="entry-header">
     <h2 class="entry-title">
       {% if page.header.link %}
@@ -31,6 +20,18 @@
     </div>
     {% endif %}
   </header>
+
+  <div class="featured-image">
+    {% if page.header.link %}
+      <a href="{{ page.header.link }}">
+        {{ page.media.images|first.cropZoom(356,356).html|raw }}
+      </a>
+    {% else %}
+      <a href="{{ page.url }}">
+        {{ page.media.images|first.cropZoom(356,356).html|raw }}
+      </a>
+    {% endif %}
+</div>
 
   <div class="entry-content">
     {% if page.header.continue_link is sameas(false) %}
