@@ -1,6 +1,6 @@
 ---
-title: 'Nick Miller'
-media_order: qdsd.PNG
+title: 'Judith Sévy'
+media_order: testJudith.png
 ---
 
 <p style="text-align: justify;">Do earum cursus diamlorem iusto aliquip, cumque mollit? Porttitor quod! Vero a, tempus nostra aliquid? Wisi pretium commodi! Pharetra! Vehicula, quas quisque! Purus, lacinia interdum.</p>
