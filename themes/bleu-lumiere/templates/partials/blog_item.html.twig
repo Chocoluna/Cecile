@@ -22,7 +22,7 @@
   </header>
 
   <div class="featured-image">
-    {% if not truncate %}
+    {% if truncate %}
       {% if page.header.link %}
       <a href="{{ page.header.link }}">
       {% else %}
@@ -31,7 +31,7 @@
         {{ page.media.images|first.cropZoom(500,500).html|raw }}
       </a>
     {% else %}
-      {{ page.media.images|first.cropZoom(500,500).html|raw }}
+      {{ page.media.images|first.html|raw }}
     {% endif %}
   </div>
 
@@ -121,16 +121,16 @@
           <div class="sd-content">
             <ul>
               <li class="share-facebook">
-                <a rel="nofollow" data-shared="sharing-facebook-368" class="share-facebook sd-button share-icon" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url(true) }}" target="_blank" title="{{ page.header.title }}"><span>Facebook</span></a>
+                <a rel="nofollow" data-shared="sharing-facebook-368" class="share-facebook sd-button share-icon" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url(true) }}" target="_blank" title="{{ page.header.title }}"></a>
               </li>
               <li class="share-twitter">
-                <a rel="nofollow" data-shared="sharing-twitter-368" class="share-twitter sd-button share-icon" href="http://twitter.com/home?status={{ page.title|replace({' ': "%20"}) }}-{{ page.url(true) }}" target="_blank" title="{{ page.header.title }}"><span>Twitter</span></a>
+                <a rel="nofollow" data-shared="sharing-twitter-368" class="share-twitter sd-button share-icon" href="http://twitter.com/home?status={{ page.title|replace({' ': "%20"}) }}-{{ page.url(true) }}" target="_blank" title="{{ page.header.title }}"></a>
               </li>
               <li class="share-google-plus-1">
-                <a rel="nofollow" data-shared="sharing-google-368" class="share-google-plus-1 sd-button share-icon" href="https://plus.google.com/share?url={{ page.url(true) }}" target="_blank" title="{{ page.header.title }}"><span>Google</span></a>
+                <a rel="nofollow" data-shared="sharing-google-368" class="share-google-plus-1 sd-button share-icon" href="https://plus.google.com/share?url={{ page.url(true) }}" target="_blank" title="{{ page.header.title }}"></a>
               </li>
               <li class="share-pinterest">
-                <a rel="nofollow" data-shared="sharing-pinterest-368" class="share-pinterest sd-button share-icon" href="https://www.pinterest.com/pin/create/button/?url={{ page.url(true) }}" target="_blank" title="{{ page.header.title }}"><span>Pinterest</span></a>
+                <a rel="nofollow" data-shared="sharing-pinterest-368" class="share-pinterest sd-button share-icon" href="https://www.pinterest.com/pin/create/button/?url={{ page.url(true) }}" target="_blank" title="{{ page.header.title }}"></a>
               </li>
               <li class="share-end"></li>
             </ul>
