@@ -22,16 +22,18 @@
   </header>
 
   <div class="featured-image">
-    {% if page.header.link %}
+    {% if not truncate %}
+      {% if page.header.link %}
       <a href="{{ page.header.link }}">
-        {{ page.media.images|first.cropZoom(356,356).html|raw }}
+      {% else %}
+      <a href="{{ page.url }}">
+      {% endif %}
+        {{ page.media.images|first.cropZoom(500,500).html|raw }}
       </a>
     {% else %}
-      <a href="{{ page.url }}">
-        {{ page.media.images|first.cropZoom(356,356).html|raw }}
-      </a>
+      {{ page.media.images|first.cropZoom(500,500).html|raw }}
     {% endif %}
-</div>
+  </div>
 
   <div class="entry-content">
     {% if page.header.continue_link is sameas(false) %}
@@ -160,7 +162,7 @@
   <div class="comments-area-wrapper">
     <div class="comments-area">
     <h2 class="comments-title">Comments:</h2>
-      {{ jscomments(config.plugins.jscomments.provider) }}
+      {{ jscomments(config.plugins.jscomments.provider)|raw }}
     </div>
   </div>
   {% endif %}
