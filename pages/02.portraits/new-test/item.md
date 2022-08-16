@@ -1,6 +1,6 @@
 ---
 title: 'Judith Sévy'
-media_order: '_DSC0416-Modifier.jpg,Capture d’écran 2022-08-16 à 18.36.42 copie.jpg,Capture d’écran 2022-08-16 à 18.36.48 copie.jpg,Capture d’écran 2022-08-16 à 18.36.34 copie.jpg'
+media_order: 'Capture d’écran 2022-08-16 à 18.36.42 copie.jpg,_DSC0416-Modifier.jpg,Capture d’écran 2022-08-16 à 18.36.48 copie.jpg,Capture d’écran 2022-08-16 à 18.36.34 copie.jpg'
 ---
 
 <p style="text-align: justify;"><span style="color: #7690b0;"><em><span style="font-size: 9pt;">Temps de lecture : 13 min.</span></em></span></p>
