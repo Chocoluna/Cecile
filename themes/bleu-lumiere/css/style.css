@@ -665,7 +665,7 @@ article hr {
   margin: 2.25rem 0 2.1875rem;
 }
 
-article .featured-image, .featured-image-article img {
+article .featured-image img, article .featured-image-article img {
   width: 500px;
   float: right;
   border: 1px solid #EFEFEF;
