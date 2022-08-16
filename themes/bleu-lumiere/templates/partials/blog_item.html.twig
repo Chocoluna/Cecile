@@ -21,8 +21,8 @@
     {% endif %}
   </header>
 
-  <div class="featured-image">
     {% if truncate %}
+  <div class="featured-image">
       {% if page.header.link %}
       <a href="{{ page.header.link }}">
       {% else %}
@@ -30,10 +30,12 @@
       {% endif %}
         {{ page.media.images|first.cropZoom(500,500).html|raw }}
       </a>
-    {% else %}
-      {{ page.media.images|first.html|raw }}
-    {% endif %}
   </div>
+    {% else %}
+  <div class="featured-image-article">
+      {{ page.media.images|first.html|raw }}
+  </div>
+    {% endif %}
 
   <div class="entry-content">
     {% if page.header.continue_link is sameas(false) %}
