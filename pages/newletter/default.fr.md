@@ -1,5 +1,5 @@
 ---
-title: NewLetter
+title: NewsLetter
 process:
     markdown: true
     twig: true
