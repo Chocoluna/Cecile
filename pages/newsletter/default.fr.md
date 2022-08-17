@@ -6,4 +6,4 @@ process:
 cache_enable: false
 ---
 
-<p>{{ subscriber() }}</p>
+<p>{{ subscriber() | raw}}</p>
