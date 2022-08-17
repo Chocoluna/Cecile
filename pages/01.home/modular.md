@@ -16,4 +16,4 @@ content:
             - _contact
 ---
 
-<p>#### Derniers portraits publi&eacute;s</p>
+<p><span style="font-size: 12pt;">Derniers portraits publi&eacute;s</span></p>
