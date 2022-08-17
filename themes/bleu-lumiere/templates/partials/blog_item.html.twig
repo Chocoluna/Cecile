@@ -2,17 +2,17 @@
   <header class="entry-header">
     <h2 class="entry-title">
       {% if page.header.link %}
-      <a class="frente-h1" href="{{ page.header.link }}">{{ page.title }}</a>
+      <a class="frente-h1" {% if truncate %} style="font-weight: lighter;" {% endif %} href="{{ page.header.link }}">{{ page.title }}</a>
       {% else %}
-      <a class="frente-h1" href="{{ page.url }}">{{ page.title }}</a>
+      <a class="frente-h1" {% if truncate %} style="font-weight: lighter;" {% endif %} href="{{ page.url }}">{{ page.title }}</a>
       {% endif %}
     </h2>
 
     {% if not truncate %}
     <div class="entry-meta">
       <span class="posted-on">Posté le
-        <time class="entry-date published" datetime="{{ 'GRAV.MONTHS_OF_THE_YEAR'|ta(page.date|date('n') - 1) }} {{ page.date|date('d, Y') }}">
-          {{ 'GRAV.MONTHS_OF_THE_YEAR'|ta(page.date|date('n') - 1) }} {{ page.date|date('d, Y') }}
+        <time class="entry-date published" datetime="{{ page.date|date('d') }} {{ 'GRAV.MONTHS_OF_THE_YEAR'|ta(page.date|date('n') - 1) }} {{ page.date|date('Y') }}">
+          {{ page.date|date('d') }} {{ 'GRAV.MONTHS_OF_THE_YEAR'|ta(page.date|date('n') - 1) }} {{ page.date|date('Y') }}
         </time>
       </span>
     </div>
@@ -35,7 +35,7 @@
   </div>
     {% endif %}
 
-  <div class="entry-content">
+  <div class="margin-5vw">
     {% if page.header.continue_link is sameas(false) %}
     <p>{{ page.content|raw }}</p>
     {% if not truncate %}
