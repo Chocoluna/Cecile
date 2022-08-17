@@ -1,5 +1,5 @@
 ---
-title: 'À propos - Contact'
+title: 'À propos'
 body_classes: 'page page-template-default group-blog'
 ---
 
