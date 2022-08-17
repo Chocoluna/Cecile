@@ -26,9 +26,6 @@ form:
         -
             type: submit
             value: Envoyer
-        -
-            type: reset
-            value: Reset
     process:
         -
             redirect: '/newsletter?action={{ form.value.action }}&email={{ form.value.email }}'
