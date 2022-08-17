@@ -6,3 +6,4 @@ process:
 cache_enable: false
 ---
 
+<p>{{ subscriber() }}</p>
