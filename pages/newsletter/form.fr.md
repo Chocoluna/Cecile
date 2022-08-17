@@ -31,4 +31,4 @@ form:
             redirect: '/newsletter?action={{ form.value.action }}&email={{ form.value.email }}'
 ---
 
-<p>{{ subscriber() | raw}}</p>
+<p style="text-align: center;">{{ subscriber() | raw}}</p>
