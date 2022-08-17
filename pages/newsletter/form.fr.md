@@ -1,11 +1,9 @@
 ---
 title: NewsLetter
-process:
-    markdown: true
-    twig: true
+never_cache_twig: true
 cache_enable: false
 form:
-    name: Subscription
+    name: 'Liste de Mails'
     fields:
         -
             name: action
@@ -13,8 +11,8 @@ form:
             label: Choice
             default: subscribe
             options:
-                subscribe: 's''inscrire'
-                unsubscribe: 'Se désinscrire'
+                subscribe: inscription
+                unsubscribe: désinscription
             validate:
                 required: true
         -
