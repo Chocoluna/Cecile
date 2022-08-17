@@ -8,7 +8,7 @@ form:
         -
             name: action
             type: radio
-            label: Choice
+            label: Action
             default: subscribe
             options:
                 subscribe: inscription
