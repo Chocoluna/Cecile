@@ -1,5 +1,5 @@
 ---
-title: 'Charlotte Hughenin'
+title: 'Charlotte Huguenin'
 media_order: _DSC0618-Modifier.jpg
 ---
 
