@@ -13,8 +13,8 @@ jscomments:
 <table style="height: 538px; width: 100%; border-collapse: collapse; border-style: none;" border="0">
 <tbody>
 <tr style="height: 538px;">
-<td style="width: 50%; height: 538px;"><span style="color: #7690b0;"><em><span style="font-size: 9pt;"><img style="display: block; margin-left: auto; margin-right: auto;" src="judith3.jpg" alt="" width="397" height="503" /></span></em></span></td>
-<td style="width: 50%; height: 538px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="judith2.jpg" alt="" /></td>
+<td style="width: 50%; height: 538px;"><span style="color: #7690b0;"><em><span style="font-size: 9pt;"><img style="float: right;" src="judith3.jpg" alt="" width="422" height="535" /></span></em></span></td>
+<td style="width: 50%; height: 538px;"><img style="display: block; margin-left: auto; margin-right: auto; float: left;" src="judith2.jpg" alt="" /></td>
 </tr>
 </tbody>
 </table>
