@@ -2,9 +2,9 @@
   <header class="entry-header">
     <h2 class="entry-title">
       {% if page.header.link %}
-      <a class="frente-h1" {% if truncate %} style="font-weight: lighter;" {% endif %} href="{{ page.header.link }}">{{ page.title }}</a>
+      <a class="frente-h1" {% if truncate %} style="font-weight: lighter; white-space:nowrap;" {% endif %} href="{{ page.header.link }}">{{ page.title }}</a>
       {% else %}
-      <a class="frente-h1" {% if truncate %} style="font-weight: lighter;" {% endif %} href="{{ page.url }}">{{ page.title }}</a>
+      <a class="frente-h1" {% if truncate %} style="font-weight: lighter; white-space:nowrap;" {% endif %} href="{{ page.url }}">{{ page.title }}</a>
       {% endif %}
     </h2>
 
