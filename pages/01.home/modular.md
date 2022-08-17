@@ -16,4 +16,4 @@ content:
             - _contact
 ---
 
-<p><span style="font-size: 14pt; font-family: 'Raleway Regular'; letter-spacing: 0.06em;">Derniers portraits publi&eacute;s</span></p>
+<p><span style="font-size: 14pt; font-family: 'Raleway Regular'; letter-spacing: 0.06em;">Derniers portraits publi&eacute;s :<br /></span></p>
