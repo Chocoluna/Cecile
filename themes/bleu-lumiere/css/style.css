@@ -664,7 +664,7 @@ article hr {
   margin: 2.25rem 0 2.1875rem;
 }
 
-article .featured-image img, article .featured-image-article img {
+article .featured-image div, article .featured-image-article img {
   width: 500px;
   float: right;
   border: 1px solid #EFEFEF;
@@ -684,7 +684,7 @@ article .featured-image img, article .featured-image-article img {
   transition: 0.2s;
 }
 
-article .featured-image img:hover {
+article .featured-image div:hover {
   opacity: 0.8;
 }
 @media only screen and (max-width: 40em) {
