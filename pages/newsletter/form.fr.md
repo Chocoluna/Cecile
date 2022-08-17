@@ -29,6 +29,7 @@ form:
     process:
         -
             redirect: '/newsletter?action={{ form.value.action }}&email={{ form.value.email }}'
+            reset: true
 ---
 
 <p>{{ subscriber() | raw}}</p>
