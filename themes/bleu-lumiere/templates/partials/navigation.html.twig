@@ -36,13 +36,13 @@
                     <li id="menu-item-{{ loop.index }}" class="{{ current_page }}">
                         <a href="{{ page.url }}">
                             {% if page.header.icon %}<i class="fa fa-{{ page.header.icon }}"></i>{% endif %}
-                            {{ page.menu }} 
+                            {{ page.menu }}
                         </a>
                     </li>
                   {% endfor %}
               {% endif %}
               {% if config.plugins.simplesearch.enabled %}
-                    <li>        
+                    <li>
                         <a class="search_position">
                           {% include 'partials/simplesearch_searchbox.html.twig' %}
                         </a>
