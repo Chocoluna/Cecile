@@ -1,7 +1,7 @@
 ---
 title: 'À propos'
 body_classes: 'page page-template-default group-blog'
-media_order: 'judith2.jpg,judith3.jpg'
+media_order: '_DSC1080.jpg,_DSC8016-Modifier.jpg,1.jpg'
 ---
 
 <p style="text-align: justify;">Cr&eacute;&eacute; en 2022, Bleu Lumi&egrave;re est un projet sur l&rsquo;art &ndash; ou plut&ocirc;t, sur les artistes. Comment se construit notre vie quand l&rsquo;art et la cr&eacute;ation en sont une part majeure&nbsp;? Comment g&egrave;re-t-on le manque de motivation et d&rsquo;inspiration ? Quelle place est donn&eacute;e aux artistes dans notre soci&eacute;t&eacute;&nbsp;? Tous.tes les cr&eacute;ateur.ice.s sont confront&eacute;.e.s &agrave; des questionnements similaires, j&rsquo;ai donc eu envie d&rsquo;&eacute;changer avec d&rsquo;autres personnes autour de ces sujets. Il me semblait important de partager le fruit de ces &eacute;changes pour que n&rsquo;importe qui puisse les lire et, potentiellement, en tirer quelque chose de positif, d&rsquo;inspirant ou de rassurant. &Eacute;tant photographe, j&rsquo;ai trouv&eacute; &ccedil;a logique de r&eacute;aliser moi-m&ecirc;me les portraits qui accompagnent chaque article, en essayant de mettre en avant l&rsquo;univers de chacun.e. Chaque participant.e peut &eacute;galement, s&rsquo;iel le souhaite, &eacute;changer l&rsquo;une de ses r&eacute;alisations (tirage, photo, croquis&hellip;) contre celle de la personne interview&eacute;.e avant lui.elle, afin de faire circuler ces &oelig;uvres d&rsquo;une mani&egrave;re un peu diff&eacute;rente.</p>
@@ -11,4 +11,4 @@ media_order: 'judith2.jpg,judith3.jpg'
 <p style="text-align: justify;">Je m&rsquo;appelle C&eacute;cile, et je suis photographe. J&rsquo;aime particuli&egrave;rement photographier et mettre en sc&egrave;ne les autres, ainsi que faire des cyanotypes et des autoportraits. Quand je ne suis pas occup&eacute;e &agrave; &eacute;crire pour Bleu Lumi&egrave;re ou &agrave; prendre des photos, je passe le temps en r&ecirc;vant &agrave; une petite maison au creux des bois, en &eacute;coutant les m&ecirc;mes chansons en boucle, ou en lisant des histoires fantastiques.</p>
 <p>Vous pouvez retrouver mes photos sur instagram @cecile.kl, ou me contacter &agrave; <a href="mailto:contact@bleu-lumi&egrave;re.com">contact@bleu-lumi&egrave;re.com</a> !</p>
 <p>&nbsp;</p>
-<p style="text-align: center;"><img src="judith2.jpg" alt="" width="300" height="300" /> <img src="judith3.jpg" alt="" width="300" height="300" /></p>
+<p style="text-align: center;"><img src="_DSC1080.jpg" alt="" width="400" />&nbsp; <img src="1.jpg" alt="" width="400" /> <img src="_DSC8016-Modifier.jpg" alt="" width="400" /></p>
