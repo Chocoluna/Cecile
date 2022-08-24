@@ -10,5 +10,4 @@ media_order: '_DSC1080.jpg,_DSC8016-Modifier.jpg,1.jpg'
 <p><span style="color: #7193bd; font-size: 14pt; font-family: Raleway Regular, arial; letter-spacing: 1px;">Derri&egrave;re le projet</span></p>
 <p style="text-align: justify;">Je m&rsquo;appelle C&eacute;cile, et je suis photographe. J&rsquo;aime particuli&egrave;rement photographier et mettre en sc&egrave;ne les autres, ainsi que faire des cyanotypes et des autoportraits. Quand je ne suis pas occup&eacute;e &agrave; &eacute;crire pour Bleu Lumi&egrave;re ou &agrave; prendre des photos, je passe le temps en r&ecirc;vant &agrave; une petite maison au creux des bois, en &eacute;coutant les m&ecirc;mes chansons en boucle, ou en lisant des histoires fantastiques.</p>
 <p>Vous pouvez retrouver mes photos sur instagram @cecile.kl, ou me contacter &agrave; <a href="mailto:contact@bleu-lumi&egrave;re.com">contact@bleu-lumi&egrave;re.com</a> !</p>
-<p>&nbsp;</p>
 <p style="text-align: center;"><img src="_DSC1080.jpg" alt="" width="300" /> <img src="_DSC8016-Modifier.jpg" alt="" width="300" /> &nbsp; <img src="1.jpg" alt="" width="300" />&nbsp;</p>
