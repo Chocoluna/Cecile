@@ -11,4 +11,4 @@ media_order: 'judith2.jpg,judith3.jpg'
 <p style="text-align: justify;">Je m&rsquo;appelle C&eacute;cile, et je suis photographe. J&rsquo;aime particuli&egrave;rement photographier et mettre en sc&egrave;ne les autres, ainsi que faire des cyanotypes et des autoportraits. Quand je ne suis pas occup&eacute;e &agrave; &eacute;crire pour Bleu Lumi&egrave;re ou &agrave; prendre des photos, je passe le temps en r&ecirc;vant &agrave; une petite maison au creux des bois, en &eacute;coutant les m&ecirc;mes chansons en boucle, ou en lisant des histoires fantastiques.</p>
 <p>Vous pouvez retrouver mes photos sur instagram @cecile.kl, ou me contacter &agrave; <a href="mailto:contact@bleu-lumi&egrave;re.com">contact@bleu-lumi&egrave;re.com</a> !</p>
 <p>&nbsp;</p>
-<p><img src="judith2.jpg" alt="" width="300" height="300" /><img src="judith3.jpg" alt="" width="300" height="300" /></p>
+<p style="text-align: center;"><img src="judith2.jpg" alt="" width="300" height="300" /> <img src="judith3.jpg" alt="" width="300" height="300" /></p>
