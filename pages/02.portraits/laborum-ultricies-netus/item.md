@@ -44,7 +44,7 @@ taxonomy:
 </div>
 <div class="footnotes">
 <ol>
-<li id="fn-7013-1">Articles L111-1 et suivants du Code de la Propri&eacute;t&eacute; Intellectuelle du 1er juillet 1992&nbsp;<a href="https://cecile.dev.coutupetra.fr/fr/portraits/laborum-ultricies-netus#fn-7013-1" rev="footnote">↩</a></li>
+<li id="fn-7013-1">Articles L111-1 et suivants du Code de la Propri&eacute;t&eacute; Intellectuelle du 1er juillet 1992&nbsp;<a href="https://cecile.dev.coutupetra.fr/fr/portraits/laborum-ultricies-netus/#fn-7013-1" rev="footnote">↩</a></li>
 <li id="fn-7013-2">Article 41 de la loi du 11 mars 1957&nbsp;<a href="https://www.webexpress.fr/actualite/focus/modele-de-mentions-legales-complet-et-gratuit/#fnref-7013-2" rev="footnote">↩</a></li>
 <li id="fn-7013-3">Article L. 226-13 du Code p&eacute;nal et la Directive Europ&eacute;enne du 24 octobre 1995&nbsp;<a href="https://www.webexpress.fr/actualite/focus/modele-de-mentions-legales-complet-et-gratuit/#fnref-7013-3" rev="footnote">↩</a></li>
 <li id="fn-7013-9">Articles L.335-2 et suivants du Code de Propri&eacute;t&eacute; Intellectuelle&nbsp;<a href="https://www.webexpress.fr/actualite/focus/modele-de-mentions-legales-complet-et-gratuit/#fnref-7013-9" rev="footnote">↩</a></li>
