@@ -3774,8 +3774,8 @@ p {
   font-family: inherit;
   font-weight: normal;
   font-size: 1.1rem;
-  line-height: 1.7;
-  margin-bottom: 1.25rem;
+  /*line-height: 1.7;*/
+  margin-bottom: 0.5rem;
   text-rendering: optimizeLegibility;
 }
 p.lead {
