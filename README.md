@@ -62,4 +62,3 @@
 
 Plugin : j'ai pas la main sur le code
 - [ ] barre de navigation : Search => pas de texte, juste un logo
-t
