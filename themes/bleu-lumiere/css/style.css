@@ -642,7 +642,7 @@ html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]
 }
 
 .site-content {
-  margin-top: 8em;
+  padding-top: 8em;
 }
 
 /*--------------------------------------------------------------
