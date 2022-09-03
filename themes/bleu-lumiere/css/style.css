@@ -645,6 +645,10 @@ html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]
   padding-top: 8em;
 }
 
+.home .site-content {
+  padding-top: 13em;
+}
+
 /*--------------------------------------------------------------
 9.1 Posts
 --------------------------------------------------------------*/
