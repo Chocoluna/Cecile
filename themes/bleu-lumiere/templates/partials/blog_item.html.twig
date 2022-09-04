@@ -1,4 +1,5 @@
 <article {% if loop.index %}id="post-{{ loop.index }}"{% endif %} class="clearfix {% if loop.index %}post-{{ loop.index }}{% endif %} post type-post format-standard has-post-thumbnail {% if truncate %}{% if page.header.post_class %}{{ page.header.post_class }}{% endif %}{% endif %} hentry category-featured {% if not truncate %}column{% endif %}">
+
   {% if truncate %}
   <div class="featured-image">
       {% if page.header.link %}
@@ -11,22 +12,25 @@
         </div>
       </a>
     </div>
-      {% else %}
-    <div class="featured-image-article">
-        {{ page.media.images|first.html|raw }}
-    </div>
-  {% endif %}
-
     <header class="entry-header">
       <h2 class="entry-title">
         {% if page.header.link %}
-        <a class="frente-h1" style="font-weight: lighter; {% if truncate %} white-space:nowrap; {% endif %}" href="{{ page.header.link }}">{{ page.title }}</a>
+        <a class="frente-h1" style="font-weight: lighter; white-space:nowrap;" href="{{ page.header.link }}">{{ page.title }}</a>
         {% else %}
-        <a class="frente-h1" style="font-weight: lighter; {% if truncate %} white-space:nowrap; {% endif %}" href="{{ page.url }}">{{ page.title }}</a>
+        <a class="frente-h1" style="font-weight: lighter; white-space:nowrap;" href="{{ page.url }}">{{ page.title }}</a>
         {% endif %}
       </h2>
-  
-      {% if not truncate %}
+    </header>
+  {% else %}
+    <header class="entry-header">
+      <h2 class="entry-title">
+        {% if page.header.link %}
+        <a class="frente-h1" style="font-weight: lighter;" href="{{ page.header.link }}">{{ page.title }}</a>
+        {% else %}
+        <a class="frente-h1" style="font-weight: lighter;" href="{{ page.url }}">{{ page.title }}</a>
+        {% endif %}
+      </h2>
+
       <div class="entry-meta">
         <span class="posted-on">Posté le
           <time class="entry-date published" datetime="{{ page.date|date('d') }} {{ 'GRAV.MONTHS_OF_THE_YEAR'|ta(page.date|date('n') - 1) }} {{ page.date|date('Y') }}">
@@ -34,8 +38,13 @@
           </time>
         </span>
       </div>
-      {% endif %}
     </header>
+
+    <div class="featured-image-article">
+        {{ page.media.images|first.html|raw }}
+    </div>
+  {% endif %}
+
 
 
 
