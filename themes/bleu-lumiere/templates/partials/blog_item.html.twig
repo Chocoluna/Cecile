@@ -1,4 +1,21 @@
 <article {% if loop.index %}id="post-{{ loop.index }}"{% endif %} class="clearfix {% if loop.index %}post-{{ loop.index }}{% endif %} post type-post format-standard has-post-thumbnail {% if truncate %}{% if page.header.post_class %}{{ page.header.post_class }}{% endif %}{% endif %} hentry category-featured {% if not truncate %}column{% endif %}">
+  {% if truncate %}
+  <div class="featured-image">
+      {% if page.header.link %}
+      <a href="{{ page.header.link }}">
+      {% else %}
+      <a href="{{ page.url }}">
+      {% endif %}
+        <div style="width:100%; aspect-ratio:1; background: url('{{ page.media.images|first.url|replace({'"':'\\"', "'":"\\'"}) }}') 50% 50% no-repeat; background-size: cover;" >
+
+        </div>
+      </a>
+    </div>
+      {% else %}
+    <div class="featured-image-article">
+        {{ page.media.images|first.html|raw }}
+    </div>
+  {% endif %}
 
     <header class="entry-header">
       <h2 class="entry-title">
@@ -20,23 +37,7 @@
       {% endif %}
     </header>
 
-    {% if truncate %}
-  <div class="featured-image">
-      {% if page.header.link %}
-      <a href="{{ page.header.link }}">
-      {% else %}
-      <a href="{{ page.url }}">
-      {% endif %}
-        <div style="width:100%; aspect-ratio:1; background: url('{{ page.media.images|first.url|replace({'"':'\\"', "'":"\\'"}) }}') 50% 50% no-repeat; background-size: cover;" >
 
-        </div>
-      </a>
-  </div>
-    {% else %}
-  <div class="featured-image-article">
-      {{ page.media.images|first.html|raw }}
-  </div>
-    {% endif %}
 
   <div class="margin-5vw">
     {% if page.header.continue_link is sameas(false) %}
