@@ -49,11 +49,11 @@
 - [X] blog : remonter le début de la page (même hauteur que la page d'accueil+ alignement à gauche) => problème en réduisant la page si on le fait, il faut même descendre l'autre page
 - [X] participer au projet : suppr padding autour du texte (cf A propos)
 - [X] BUG toggle navbar : check style.css >> lignes 335 à 422
+- [X] passer les dates en français => THEAU
 
 ##TODO
 - [ ] faire marcher le module Commentaires => THEAU
 - [ ] MailingList => THEAU
-- [ ] passer les dates en français => THEAU
 - [ ] résultats de recherche en français => THEAU
 
 ##Style
