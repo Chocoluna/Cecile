@@ -43,13 +43,18 @@
 - [X] police des titres : fontweight : lighter?
 - [X] images cliquables (?)
 - [X] favicon ! 
+- [X] interligne + police => check avec Cécile
+- [X] mettre l'image de début d'article au centre
+- [X] accueil : remettre titres en-dessous des photos
+- [X] blog : remonter le début de la page (même hauteur que la page d'accueil+ alignement à gauche) => problème en réduisant la page si on le fait, il faut même descendre l'autre page
+- [X] participer au projet : suppr padding autour du texte (cf A propos)
+- [X] BUG toggle navbar : check style.css >> lignes 335 à 422
 
 ##TODO
 - [ ] faire marcher le module Commentaires => THEAU
 - [ ] MailingList => THEAU
 - [ ] passer les dates en français => THEAU
-- [ ] bouton(?) mentions légales dans A propos. 
-- [ ] BUG toggle navbar : check style.css >> lignes 335 à 422
+- [ ] résultats de recherche en français => THEAU
 
 ##Style
 - titre site + articles : Frente en regular, couleur #17317a
