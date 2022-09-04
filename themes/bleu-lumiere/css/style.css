@@ -890,6 +890,31 @@ article table .even {
 /*--------------------------------------------------------------
 10.0 Comments
 --------------------------------------------------------------*/
+span.isso-author, a.isso-author {
+  color: #17317a;
+}
+a.isso-reply, span.isso-author:hover, a.isso-author:hover {
+  color: #7690b0;
+}
+a.isso-reply:hover {
+  color: #7690b0;
+}
+
+.isso-post-action > input[name=preview] {
+  display: none;
+}
+.isso-post-action > input {
+  background-color: #17317a !important;
+}
+.isso-post-action > input:hover {
+  background-color: #7690b0 !important;
+}
+.isso-thread-heading {
+  display: none;
+}
+
+
+
 .comments-area h4.comments-title {
   margin: 2em 0;
 }
