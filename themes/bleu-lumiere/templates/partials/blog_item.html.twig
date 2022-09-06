@@ -7,7 +7,13 @@
       {% else %}
       <a href="{{ page.url }}">
       {% endif %}
-        <div style="width:100%; aspect-ratio:1; background: url('{{ page.media.images|first.url|replace({'"':'\\"', "'":"\\'"}) }}') 50% 50% no-repeat; background-size: cover;" >
+        {% if page.media.images %}
+          {% set thumbnail = page.media.images|first.url|replace({'"':'\\"', "'":"\\'"}) %}
+        {% else %}
+          {% set thumbnail = "https://thumbs.dreamstime.com/b/no-photo-available-missing-image-coming-soon-web-39680127.jpg" %}
+        {% endif %}
+
+        <div style="width:100%; aspect-ratio:1; background: url('{{ thumbnail }}') 50% 50% no-repeat; background-size: cover;" >
 
         </div>
       </a>
