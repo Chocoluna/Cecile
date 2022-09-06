@@ -6,7 +6,7 @@
 - [X] page d'accueil qui défile PAS vers le bas (vs le template original)
 - [X] commentaire sur les pages où il y a les articles
 - [X] faire apparaitre les 3 derniers articles sur la page d'acceuil
-- [X] changer polices + couleur titres 
+- [X] changer polices + couleur titres
 - [X] changer polices + couleur texte
 - [X] effet quand on passe la souris sur du texte cliquable
 - [X] garder les effets des images (ombre + hover)
@@ -18,9 +18,9 @@
 - [X] barre de navigation : boutons pas en majuscule
 - [X] barre de navigation : augmenter taille du logo + de la police
 - [X] barre de navigation : enlever le trait
-- [X] barre de navigation : Home => Accueil 
+- [X] barre de navigation : Home => Accueil
 - [X] page d'accueil : suppr sous-titre
-- [X] page d'accueil : afficher seulement photo + titre 
+- [X] page d'accueil : afficher seulement photo + titre
 - [X] page d'accueil : réduire l'espace entre titre et photo
 - [X] page Portraits : sticky post + titre + ss-titre = suppr
 - [X] page Portraits : articles => infos = seulement nom de l'article (+ date?) et mettre infos EN-DESSOUS de la photo
@@ -42,7 +42,7 @@
 - [X] navbar FIXED quand scroll ou bouton pour remonter
 - [X] police des titres : fontweight : lighter?
 - [X] images cliquables (?)
-- [X] favicon ! 
+- [X] favicon !
 - [X] interligne + police => check avec Cécile
 - [X] mettre l'image de début d'article au centre
 - [X] accueil : remettre titres en-dessous des photos
@@ -52,9 +52,9 @@
 - [X] passer les dates en français => THEAU
 
 ##TODO
-- [ ] faire marcher le module Commentaires => THEAU
-- [ ] MailingList => THEAU
-- [ ] résultats de recherche en français => THEAU
+- [X] faire marcher le module Commentaires => THEAU
+- [ ] MailingList (en cours de redev : 75%) => THEAU
+- [X] résultats de recherche en français => THEAU
 
 ##Style
 - titre site + articles : Frente en regular, couleur #17317a
@@ -62,7 +62,7 @@
 - texte article : Raleway en medium, en #232222
 - hover + page active : #7690b0
 
-- searchbar : contour, fond + clair, petite loupe? 
+- searchbar : contour, fond + clair, petite loupe?
 
 
 Plugin : j'ai pas la main sur le code
