@@ -19,7 +19,7 @@ title: 'Mention Légales'
 <p><span style="color: #7193bd; font-size: 15pt; font-family: Raleway Regular, arial; letter-spacing: 1px;">Propri&eacute;t&eacute; intellectuelle</span></p>
 <p>Sauf mention contraire, tous les &eacute;l&eacute;ments accessibles sur le site (textes, images, graphismes, logo, ic&ocirc;nes, sons, logiciels, etc.) restent la propri&eacute;t&eacute; exclusive de leurs auteurs, en ce qui concerne les droits de propri&eacute;t&eacute; intellectuelle ou les droits d&rsquo;usage. <sup id="fnref-7013-1"><a href="#fn-7013-1" rel="footnote">1</a></sup></p>
 <p>Toute reproduction, repr&eacute;sentation, modification, publication, adaptation de tout ou partie des &eacute;l&eacute;ments du site, quel que soit le moyen ou le proc&eacute;d&eacute; utilis&eacute;, est interdite, sauf autorisation &eacute;crite pr&eacute;alable de l&rsquo;auteur.<sup id="fnref-7013-2"><a href="#fn-7013-2" rel="footnote">2</a></sup><sup id="fnref-7013-3"><a href="#fn-7013-3" rel="footnote">3</a></sup></p>
-<p>Toute exploitation non autoris&eacute;e du site ou de l&rsquo;un quelconque des &eacute;l&eacute;ments qu&rsquo;il contient est consid&eacute;r&eacute;e comme constitutive d&rsquo;une contrefa&ccedil;on et passible de poursuites. <sup id="fnref-7013-9"><a href="#fn-7013-4" rel="footnote">4</a></sup></p>
+<p>Toute exploitation non autoris&eacute;e du site ou de l&rsquo;un quelconque des &eacute;l&eacute;ments qu&rsquo;il contient est consid&eacute;r&eacute;e comme constitutive d&rsquo;une contrefa&ccedil;on et passible de poursuites. <sup id="fnref-7013-9"><a href="#fn-7013-9" rel="footnote">4</a></sup></p>
 <p>Les marques et logos reproduits sur le site sont d&eacute;pos&eacute;s par les soci&eacute;t&eacute;s qui en sont propri&eacute;taires.</p>
 <p>&nbsp;</p>
 <p><span style="color: #7193bd; font-size: 15pt; font-family: Raleway Regular, arial; letter-spacing: 1px;">Liens</span></p>
@@ -32,8 +32,8 @@ title: 'Mention Légales'
 <p>Le propri&eacute;taire du site se r&eacute;serve le droit de demander la suppression d&rsquo;un lien s&rsquo;il estime que le site source ne respecte pas les r&egrave;gles ainsi d&eacute;finies.</p>
 <p>&nbsp;</p>
 <p><span style="color: #7193bd; font-size: 15pt; font-family: Raleway Regular, arial; letter-spacing: 1px;">Confidentialit&eacute;</span></p>
-<p>Tout utilisateur dispose d&rsquo;un droit d&rsquo;acc&egrave;s, de rectification et d&rsquo;opposition aux donn&eacute;es personnelles le concernant, en effectuant sa demande &eacute;crite et sign&eacute;e, accompagn&eacute;e d&rsquo;une preuve d&rsquo;identit&eacute;. <sup id="fnref-7013-5"><a href="#fn-7013-5" rel="footnote">5</a></sup><sup id="fnref-7013-6"><a href="#fn-7013-6" rel="footnote">6</a></sup><sup id="fnref-7013-7"><a href="#fn-7013-7" rel="footnote">7</a></sup><sup id="fnref-7013-8"><a href="#fn-7013-8" rel="footnote">8</a></sup></p>
-<p>Le site ne recueille pas d&rsquo;informations personnelles, et n&rsquo;est pas assujetti &agrave; d&eacute;claration &agrave; la CNIL. <sup id="fnref-7013-9"><a href="/#fn-7013-9" rel="footnote">9</a></sup></p>
+<p>Tout utilisateur dispose d&rsquo;un droit d&rsquo;acc&egrave;s, de rectification et d&rsquo;opposition aux donn&eacute;es personnelles le concernant, en effectuant sa demande &eacute;crite et sign&eacute;e, accompagn&eacute;e d&rsquo;une preuve d&rsquo;identit&eacute;. <sup id="fnref-7013-5"><a href="#fn-7013-5" rel="footnote">5</a></sup><sup id="fnref-7013-7"><a href="#fn-7013-7" rel="footnote">6</a></sup><sup id="fnref-7013-8"><a href="#fn-7013-8" rel="footnote">7</a></sup><sup id="fnref-7013-6"><a href="#fn-7013-6" rel="footnote">8</a></sup></p>
+<p>Le site ne recueille pas d&rsquo;informations personnelles, et n&rsquo;est pas assujetti &agrave; d&eacute;claration &agrave; la CNIL. <sup id="fnref-7013-4"><a href="/#fn-7013-4" rel="footnote">9</a></sup></p>
 <p>&nbsp;</p>
 <p><span style="color: #7193bd; font-size: 15pt; font-family: Raleway Regular, arial; letter-spacing: 1px;">Cr&eacute;dits</span></p>
 <p>Sauf mention contraire, les textes et images pr&eacute;sents sur ce site sont la cr&eacute;ation et la propri&eacute;t&eacute; de l'&eacute;ditrice C&eacute;cile Kl.</p>
@@ -42,15 +42,15 @@ title: 'Mention Légales'
 </div>
 <div class="footnotes">
 <ol>
-<li id="fn-7013-1">Articles L111-1 et suivants du Code de la Propri&eacute;t&eacute; Intellectuelle du 1er juillet 1992&nbsp;<a href="#fnref-7013-1" rev="footnote">↩</a></li>
-<li id="fn-7013-2">Article 41 de la loi du 11 mars 1957&nbsp;<a href="#fnref-7013-2" rev="footnote">↩</a></li>
-<li id="fn-7013-3">Article L. 226-13 du Code p&eacute;nal et la Directive Europ&eacute;enne du 24 octobre 1995&nbsp;<a href="#fnref-7013-3" rev="footnote">↩</a></li>
-<li id="fn-7013-9">Articles L.335-2 et suivants du Code de Propri&eacute;t&eacute; Intellectuelle&nbsp;<a href="#fnref-7013-9" rev="footnote">↩</a></li>
-<li id="fn-7013-5">Loi n&deg; 78-87 du 6 janvier 1978, modifi&eacute;e par la loi n&deg; 2004-801 du 6 ao&ucirc;t 2004, relative &agrave; l&rsquo;informatique, aux fichiers et aux libert&eacute;s&nbsp;<a href="#fnref-7013-5" rev="footnote">↩</a></li>
-<li id="fn-7013-7">Articles 38 et suivants de la loi 78-17 du 6 janvier 1978 relative &agrave; l&rsquo;informatique, aux fichiers et aux libert&eacute;s&nbsp;<a href="#fnref-7013-7" rev="footnote">↩</a></li>
-<li id="fn-7013-8">Loi du 1er juillet 1998 transposant la directive 96/9 du 11 mars 1996 relative &agrave; la protection juridique des bases de donn&eacute;es&nbsp;<a href="#fnref-7013-8" rev="footnote">↩</a></li>
-<li id="fn-7013-6">Loi n&deg; 2004-801 du 6 ao&ucirc;t 2004&nbsp;<a href="#fnref-7013-6" rev="footnote">↩</a></li>
-<li id="fn-7013-4">Article 6 de la <a class="ext-link wpel-icon-right" href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000801164&amp;dateTexte=20160619" target="_new" rel="external noopener noreferrer" data-wpel-link="external">loi n&deg; 2004-575 du 21 juin 2004</a> pour la confiance dans l&rsquo;&eacute;conomie num&eacute;rique&nbsp;<a href="#fnref-7013-4" rev="footnote">↩</a></li>
+<li id="fn-7013-1">Articles L111-1 et suivants du Code de la Propri&eacute;t&eacute; Intellectuelle du 1er juillet 1992&nbsp;</li>
+<li id="fn-7013-2">Article 41 de la loi du 11 mars 1957&nbsp;</li>
+<li id="fn-7013-3">Article L. 226-13 du Code p&eacute;nal et la Directive Europ&eacute;enne du 24 octobre 1995&nbsp;</li>
+<li id="fn-7013-9">Articles L.335-2 et suivants du Code de Propri&eacute;t&eacute; Intellectuelle&nbsp;</li>
+<li id="fn-7013-5">Loi n&deg; 78-87 du 6 janvier 1978, modifi&eacute;e par la loi n&deg; 2004-801 du 6 ao&ucirc;t 2004, relative &agrave; l&rsquo;informatique, aux fichiers et aux libert&eacute;s&nbsp;</li>
+<li id="fn-7013-7">Articles 38 et suivants de la loi 78-17 du 6 janvier 1978 relative &agrave; l&rsquo;informatique, aux fichiers et aux libert&eacute;s&nbsp;</li>
+<li id="fn-7013-8">Loi du 1er juillet 1998 transposant la directive 96/9 du 11 mars 1996 relative &agrave; la protection juridique des bases de donn&eacute;es&nbsp;</li>
+<li id="fn-7013-6">Loi n&deg; 2004-801 du 6 ao&ucirc;t 2004&nbsp;</li>
+<li id="fn-7013-4">Article 6 de la <a class="ext-link wpel-icon-right" href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000801164&amp;dateTexte=20160619" target="_new" rel="external noopener noreferrer" data-wpel-link="external">loi n&deg; 2004-575 du 21 juin 2004</a> pour la confiance dans l&rsquo;&eacute;conomie num&eacute;rique&nbsp;</li>
 </ol>
 </div>
 </div>
