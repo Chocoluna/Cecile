@@ -4,8 +4,8 @@ title: 'Mention Légales'
 
 <div class="entry-inner">
 <div class="zzhighlight text-justify">
-<p>Le site web bleulumiere.fr est &eacute;dit&eacute; par C&eacute;cile Kl et h&eacute;berg&eacute; par Klr.</p>
-<h2>Conditions d&rsquo;utilisation</h2>
+<p>Le site web bleulumiere.fr est &eacute;dit&eacute; par C&eacute;cile Kl et auto-h&eacute;berg&eacute; par claire.coutupetra.fr.</p>
+<p><span style="color: #7193bd; font-size: 14pt; font-family: Raleway Regular, arial; letter-spacing: 1px;">Conditions d'utilisation</span></p>
 <p>L&rsquo;utilisation du pr&eacute;sent site implique l&rsquo;acceptation pleine et enti&egrave;re des conditions g&eacute;n&eacute;rales d&rsquo;utilisation d&eacute;crites ci-apr&egrave;s. Ces conditions d&rsquo;utilisation sont susceptibles d&rsquo;&ecirc;tre modifi&eacute;es ou compl&eacute;t&eacute;es &agrave; tout moment.</p>
 <h2>Informations</h2>
 <p>Les informations et documents du site sont pr&eacute;sent&eacute;s &agrave; titre indicatif, sans caract&egrave;re exhaustif, et ne peuvent engager la responsabilit&eacute; du propri&eacute;taire du site.</p>
@@ -14,7 +14,7 @@ title: 'Mention Légales'
 <p>Les utilisateurs du site peuvent y d&eacute;poser du contenu, apparaissant sur le site dans des espaces d&eacute;di&eacute;s (notamment via les commentaires). Le contenu d&eacute;pos&eacute; reste sous la responsabilit&eacute; de leurs auteurs, qui en assument pleinement l&rsquo;enti&egrave;re responsabilit&eacute; juridique.</p>
 <p>Le propri&eacute;taire du site se r&eacute;serve n&eacute;anmoins le droit de retirer sans pr&eacute;avis et sans justification tout contenu d&eacute;pos&eacute; par les utilisateurs qui ne satisferait pas &agrave; la charte d&eacute;ontologique du site ou &agrave; la l&eacute;gislation en vigueur.</p>
 <h2>Propri&eacute;t&eacute; intellectuelle</h2>
-<p>Sauf mention contraire, tous les &eacute;l&eacute;ments accessibles sur le site (textes, images, graphismes, logo, ic&ocirc;nes, sons, logiciels, etc.) restent la propri&eacute;t&eacute; exclusive de leurs auteurs, en ce qui concerne les droits de propri&eacute;t&eacute; intellectuelle ou les droits d&rsquo;usage. <sup id="fnref-7013-1"><a href="https://cecile.dev.coutupetra.fr/fr/portraits/laborum-ultricies-netus/#fn-7013-1" rel="footnote">1</a></sup></p>
+<p>Sauf mention contraire, tous les &eacute;l&eacute;ments accessibles sur le site (textes, images, graphismes, logo, ic&ocirc;nes, sons, logiciels, etc.) restent la propri&eacute;t&eacute; exclusive de leurs auteurs, en ce qui concerne les droits de propri&eacute;t&eacute; intellectuelle ou les droits d&rsquo;usage. <sup id="fnref-7013-1"><a href="#fn-7013-1" rel="footnote">1</a></sup></p>
 <p>Toute reproduction, repr&eacute;sentation, modification, publication, adaptation de tout ou partie des &eacute;l&eacute;ments du site, quel que soit le moyen ou le proc&eacute;d&eacute; utilis&eacute;, est interdite, sauf autorisation &eacute;crite pr&eacute;alable de l&rsquo;auteur.<sup id="fnref-7013-2"><a href="https://www.webexpress.fr/actualite/focus/modele-de-mentions-legales-complet-et-gratuit/#fn-7013-2" rel="footnote">2</a></sup><sup id="fnref-7013-3"><a href="https://www.webexpress.fr/actualite/focus/modele-de-mentions-legales-complet-et-gratuit/#fn-7013-3" rel="footnote">3</a></sup></p>
 <p>Toute exploitation non autoris&eacute;e du site ou de l&rsquo;un quelconque des &eacute;l&eacute;ments qu&rsquo;il contient est consid&eacute;r&eacute;e comme constitutive d&rsquo;une contrefa&ccedil;on et passible de poursuites. <sup id="fnref-7013-9"><a href="https://www.webexpress.fr/actualite/focus/modele-de-mentions-legales-complet-et-gratuit/#fn-7013-9" rel="footnote">4</a></sup></p>
 <p>Les marques et logos reproduits sur le site sont d&eacute;pos&eacute;s par les soci&eacute;t&eacute;s qui en sont propri&eacute;taires.</p>
