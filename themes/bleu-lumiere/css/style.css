@@ -682,7 +682,7 @@ html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]
 article.type-post div p{
   text-indent:30px;
 }
-article.type-post div p span{
+article.type-post div p.snd{
   text-indent:-30px;
 }
 
