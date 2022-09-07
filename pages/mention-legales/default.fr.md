@@ -33,7 +33,7 @@ title: 'Mention Légales'
 <p>&nbsp;</p>
 <p><span style="color: #7193bd; font-size: 15pt; font-family: Raleway Regular, arial; letter-spacing: 1px;">Confidentialit&eacute;</span></p>
 <p>Tout utilisateur dispose d&rsquo;un droit d&rsquo;acc&egrave;s, de rectification et d&rsquo;opposition aux donn&eacute;es personnelles le concernant, en effectuant sa demande &eacute;crite et sign&eacute;e, accompagn&eacute;e d&rsquo;une preuve d&rsquo;identit&eacute;. <sup id="fnref-7013-5"><a href="#fn-7013-5" rel="footnote">5</a></sup><sup id="fnref-7013-7"><a href="#fn-7013-7" rel="footnote">6</a></sup><sup id="fnref-7013-8"><a href="#fn-7013-8" rel="footnote">7</a></sup><sup id="fnref-7013-6"><a href="#fn-7013-6" rel="footnote">8</a></sup></p>
-<p>Le site ne recueille pas d&rsquo;informations personnelles, et n&rsquo;est pas assujetti &agrave; d&eacute;claration &agrave; la CNIL. <sup id="fnref-7013-4"><a href="/#fn-7013-4" rel="footnote">9</a></sup></p>
+<p>Le site ne recueille pas d&rsquo;informations personnelles, et n&rsquo;est pas assujetti &agrave; d&eacute;claration &agrave; la CNIL. <sup id="fnref-7013-4"><a href="#fn-7013-4" rel="footnote">9</a></sup></p>
 <p>&nbsp;</p>
 <p><span style="color: #7193bd; font-size: 15pt; font-family: Raleway Regular, arial; letter-spacing: 1px;">Cr&eacute;dits</span></p>
 <p>Sauf mention contraire, les textes et images pr&eacute;sents sur ce site sont la cr&eacute;ation et la propri&eacute;t&eacute; de l'&eacute;ditrice C&eacute;cile Kl.</p>
