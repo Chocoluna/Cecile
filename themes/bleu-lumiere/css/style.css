@@ -679,6 +679,9 @@ html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]
 /*--------------------------------------------------------------
 9.1 Posts
 --------------------------------------------------------------*/
+article.hentry div img{
+  height: revert-layer;
+}
 article.hentry {
   margin: 0 0 0.5em 0;
 }
