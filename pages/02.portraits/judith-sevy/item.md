@@ -1,6 +1,6 @@
 ---
 title: 'Judith Sévy'
-media_order: '_DSC0416-Modifier.jpg,judith1.jpg,judith2.jpg,judith3.jpg,judith4.jpg'
+media_order: 'portraitjudith.jpg,judith1.jpg,judith2.jpg,judith3.jpg,judith4.jpg'
 jscomments:
     active: true
     provider: isso
