@@ -93,6 +93,11 @@
     <hr class="rescue-spacing " style="height: 30px">
     {% endif %}
     <p>{{ page.content|raw }}</p>
+
+  {% if config.plugins.subscriber.enabled %}
+      {% include 'partials/subscriber_form.html.twig' %}
+  {% endif %}
+
     <div class="entry-content">
 
       {% if page.header.progressbar %}
@@ -149,6 +154,7 @@
           </div>
         </div>
       </div>
+
       <script type="text/javascript">var windowOpen;jQuery(document).on('ready post-load',function(){jQuery('a.share-facebook').on('click',function(){if('undefined'!==typeof windowOpen){windowOpen.close();}
       windowOpen=window.open(jQuery(this).attr('href'),'wpcomfacebook','menubar=1,resizable=1,width=600,height=400');return false;});});</script>
       <script type="text/javascript">var windowOpen;jQuery(document).on('ready post-load',function(){jQuery('a.share-twitter').on('click',function(){if('undefined'!==typeof windowOpen){windowOpen.close();}
