@@ -32,3 +32,20 @@ form:
 ---
 
 <p style="text-align: center;">{{ subscriber() | raw}}</p>
+
+<script>
+function maillist_action(action, email, mailing=null)
+{
+   if( action == 'subscribe' || action == 'unsubscribe' ){
+       var url = "https://cecile.dev.coutupetra.fr/newsletter?action=" + action + "&email=" + email
+       if ( mailing != null ) url += "&mailing=" + mailing
+
+       var xmlHttp = new XMLHttpRequest();
+       xmlHttp.open( "GET", url, false );
+       xmlHttp.send( null );
+       return true;
+   }
+   else
+      return false;
+}
+</script>
