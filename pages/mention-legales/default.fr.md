@@ -5,7 +5,7 @@ title: 'Mention Légales'
 <div class="entry-inner">
 <div class="zzhighlight text-justify">
 <p>Le site web bleulumiere.fr est &eacute;dit&eacute; par C&eacute;cile Kl et auto-h&eacute;berg&eacute; par claire.coutupetra.fr.</p>
-<p><span style="color: #7193bd; font-size: 18pt; font-family: Raleway Regular, arial; letter-spacing: 1px;">Newsletter</span></p>
+<p><span style="color: #7193bd; font-size: 20pt; font-family: Raleway Regular, arial; letter-spacing: 1px;"><span style="font-size: 15pt;">Conditions d'utilisation</span><br /></span></p>
 <p>L&rsquo;utilisation du pr&eacute;sent site implique l&rsquo;acceptation pleine et enti&egrave;re des conditions g&eacute;n&eacute;rales d&rsquo;utilisation d&eacute;crites ci-apr&egrave;s. Ces conditions d&rsquo;utilisation sont susceptibles d&rsquo;&ecirc;tre modifi&eacute;es ou compl&eacute;t&eacute;es &agrave; tout moment.</p>
 <p>&nbsp;</p>
 <p><span style="color: #7193bd; font-size: 15pt; font-family: Raleway Regular, arial; letter-spacing: 1px;">Informations</span></p>
