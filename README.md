@@ -4,6 +4,7 @@
 https://cecile.dev.coutupetra.fr/fr
 
 ## Cahier des charges
+### Done
 - [X] barre de recherche
 - [X] maj barre de navigation
 - [X] page d'accueil qui défile PAS vers le bas (vs le template original)
@@ -54,12 +55,12 @@ https://cecile.dev.coutupetra.fr/fr
 - [X] BUG toggle navbar : check style.css >> lignes 335 à 422
 - [X] passer les dates en français
 
-##TODO
+### TODO
 - [X] faire marcher le module Commentaires
 - [ ] MailingList (en cours de redev : 75%)
 - [X] résultats de recherche en français
 
-##Style
+### Style
 - titre site + articles : Frente en regular, couleur #17317a
 - sous-titres : Raleway en regular, en #232222
 - texte article : Raleway en medium, en #232222
