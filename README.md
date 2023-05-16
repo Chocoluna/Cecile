@@ -1,6 +1,8 @@
 # Cecile
+##Adresse du site
+https://cecile.dev.coutupetra.fr/fr
 
-##DONE
+##Cahier des charges
 - [X] barre de recherche
 - [X] maj barre de navigation
 - [X] page d'accueil qui défile PAS vers le bas (vs le template original)
