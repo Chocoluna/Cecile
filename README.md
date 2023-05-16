@@ -49,12 +49,12 @@
 - [X] blog : remonter le début de la page (même hauteur que la page d'accueil+ alignement à gauche) => problème en réduisant la page si on le fait, il faut même descendre l'autre page
 - [X] participer au projet : suppr padding autour du texte (cf A propos)
 - [X] BUG toggle navbar : check style.css >> lignes 335 à 422
-- [X] passer les dates en français => THEAU
+- [X] passer les dates en français
 
 ##TODO
-- [X] faire marcher le module Commentaires => THEAU
-- [ ] MailingList (en cours de redev : 75%) => THEAU
-- [X] résultats de recherche en français => THEAU
+- [X] faire marcher le module Commentaires
+- [ ] MailingList (en cours de redev : 75%)
+- [X] résultats de recherche en français
 
 ##Style
 - titre site + articles : Frente en regular, couleur #17317a
